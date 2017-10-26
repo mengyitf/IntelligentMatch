@@ -4,6 +4,7 @@ import com.mengyitf.config.Config;
 import com.mengyitf.config.MatchIO;
 import com.mengyitf.model.D_S_Match;
 import com.mengyitf.model.Department;
+import com.mengyitf.model.Log;
 import com.mengyitf.model.Student;
 import com.mengyitf.service.DepartmentOfStudentMatching;
 
@@ -28,6 +29,7 @@ public class DepartmentOfStudentMatchingImpl implements DepartmentOfStudentMatch
     private ArrayList<Student> students = null;
     private ArrayList<D_S_Match> d_s_matches = new ArrayList<>();
     private String d_s_matchesStr = "/";
+    private Log log = new Log();
 
     public DepartmentOfStudentMatchingImpl(){}
 
@@ -48,14 +50,17 @@ public class DepartmentOfStudentMatchingImpl implements DepartmentOfStudentMatch
     public void matching(){
         boolean error = false;
         if (departments==null || departments.size()==0){
-            System.out.println("没有部门");
+            log.writeLog("没有部门");
             error = true;
         }
         if (students==null || students.size()==0){
-            System.out.println("没有学生");
+            log.writeLog("没有学生");
             error = true;
         }
-        if (error) System.exit(1);
+        if (error) {
+            
+            System.exit(1);
+        }
 
         // 志愿优先
         firstChoice();
@@ -115,6 +120,7 @@ public class DepartmentOfStudentMatchingImpl implements DepartmentOfStudentMatch
             d_s_matchesCopy.get(j).setStudentStr(d_s_matchCopy.getStudentStr());
             d_s_matchesCopy.remove(j);
         }
+        
     }
 
     // 志愿优先
@@ -384,11 +390,11 @@ public class DepartmentOfStudentMatchingImpl implements DepartmentOfStudentMatch
             bw.write("数量："+num);
             bw.newLine();
             bw.close();
-            System.out.println("已成功输出文件:"+config.getOutputfilePath());
+            log.writeLog("已成功输出文件:"+config.getOutputfilePath());
         }catch (IOException ioe){
-            System.out.println(ioe);
+            log.writeLog(ioe);
         }
-
+        
     }
 
     public Config getConfig() {

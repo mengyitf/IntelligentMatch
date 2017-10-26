@@ -1,0 +1,2222 @@
+Department
+DepartmentName: "Ô§ÒıÖè"
+DepartmentCode: "132005"
+StudentLimit: 12
+Characteristics: "¼ÍĞ¶Ëß" "Ê¥¿¨"
+RoutineActivityTime: "Day/12:19-13:35" "Day/23:14-26:49"
+/
+DepartmentName: "Ñ¿ÍÆ"
+DepartmentCode: "132009"
+StudentLimit: 14
+Characteristics: "ÄÊËÈÄë" "Æ»·ûÓÄ" "¹èºÀ³µ"
+RoutineActivityTime: "Week/Sunday/11:34-13:16" "Day/22:38-24:8" "Week/Tuesday/21:11-23:9" "Week/Saturday/15:18-17:22"
+/
+DepartmentName: "µ¬Î¡"
+DepartmentCode: "132012"
+StudentLimit: 14
+Characteristics: "Ññ¶ºÒ¥" "Õ·°´" "ºÙ¹ËÔÚ" "Ò¸ÈôÃğ" "Æ»·ûÓÄ"
+RoutineActivityTime: "Day/23:18-26:30" "Day/20:7-22:30" "Day/15:37-16:44" "Week/Saturday/21:57-23:31"
+/
+DepartmentName: "·¤Óé"
+DepartmentCode: "132018"
+StudentLimit: 11
+Characteristics: "¶ØÄ¤²ø" "¶ğÁÒÉú" "ºêÅÊÓ¾" "Æ»·ûÓÄ"
+RoutineActivityTime: "Week/Thursday/23:56-25:21" "Week/Tuesday/13:16-15:38" "Day/19:54-22:0" "Day/15:1-17:9"
+/
+DepartmentName: "Í£ÄÎÏø"
+DepartmentCode: "132023"
+StudentLimit: 11
+Characteristics: "²õ¶±" "ÄÊËÈÄë" "¼ÍĞ¶Ëß" "¶ØÄ¤²ø" "Ññ¶ºÒ¥" "Ê¥¿¨"
+RoutineActivityTime: "Week/Sunday/10:32-13:23" "Day/22:41-24:28" "Week/Friday/13:11-14:4"
+/
+DepartmentName: "µÖÉõ"
+DepartmentCode: "132028"
+StudentLimit: 15
+Characteristics: "ºêÅÊÓ¾" "ÓÂÖ§"
+RoutineActivityTime: "Day/17:38-18:3" "Day/14:20-16:5" "Day/19:44-20:46"
+/
+DepartmentName: "È×ËË"
+DepartmentCode: "132033"
+StudentLimit: 15
+Characteristics: "¶ØÄ¤²ø"
+RoutineActivityTime: "Week/Sunday/18:49-20:38" "Day/14:54-15:16" "Week/Tuesday/13:19-16:8" "Day/21:36-22:30"
+/
+DepartmentName: "·ÀÖÒ´ğ"
+DepartmentCode: "132036"
+StudentLimit: 15
+Characteristics: "Ê·ÑÑ" "¶ğÁÒÉú" "ºñÊÃ" "ºÙ¹ËÔÚ" "²õ¶±" "ÄÊËÈÄë"
+RoutineActivityTime: "Day/22:19-23:24" "Week/Saturday/15:21-18:19" "Day/18:47-19:33"
+/
+DepartmentName: "³¿¶À"
+DepartmentCode: "132042"
+StudentLimit: 12
+Characteristics: "ºêÅÊÓ¾" "ºñÊÃ" "Ê¥¿¨" "Ê¥¿¨" "¹èºÀ³µ" "¶ğÁÒÉú"
+RoutineActivityTime: "Day/11:34-13:0" "Day/24:24-25:21"
+/
+DepartmentName: "¾ç°îÏÍ"
+DepartmentCode: "132047"
+StudentLimit: 15
+Characteristics: "Ê·ÑÑ" "ºêÅÊÓ¾"
+RoutineActivityTime: "Week/Sunday/12:9-14:39" "Day/23:41-25:11" "Day/10:18-13:48"
+/
+DepartmentName: "±ÅÆ¼·Ş"
+DepartmentCode: "132053"
+StudentLimit: 12
+Characteristics: "Æ»·ûÓÄ" "¶ğÁÒÉú" "²õ¶±" "Ê¥¿¨"
+RoutineActivityTime: "Week/Sunday/9:7-12:52" "Day/19:49-20:30" "Week/Monday/20:41-21:12" "Day/14:14-17:24"
+/
+DepartmentName: "·ÏÌÈÖŞ"
+DepartmentCode: "132060"
+StudentLimit: 15
+Characteristics: "ºÙ¹ËÔÚ" "ÄÊËÈÄë" "¼ÍĞ¶Ëß" "Ê¥¿¨" "Æ»·ûÓÄ"
+RoutineActivityTime: "Day/10:36-13:28" "Day/12:33-13:55" "Day/24:4-27:15"
+/
+DepartmentName: "ÈèÖğ"
+DepartmentCode: "132063"
+StudentLimit: 11
+Characteristics: "ºİÑİ" "Ò¸ÈôÃğ" "ÄÊËÈÄë" "ÄòÎ¢" "Æ¸µ¢»¥" "Õ·°´"
+RoutineActivityTime: "Day/22:18-24:6" "Day/20:33-22:49"
+/
+DepartmentName: "³¨ºâ"
+DepartmentCode: "132068"
+StudentLimit: 11
+Characteristics: "¹èºÀ³µ"
+RoutineActivityTime: "Day/19:58-20:29" "Day/24:25-26:26"
+/
+DepartmentName: "¼ùÈ³´ç"
+DepartmentCode: "132074"
+StudentLimit: 11
+Characteristics: "ºÙ¹ËÔÚ" "¹èºÀ³µ" "ÓÂÖ§" "¶ØÄ¤²ø" "Ò¸ÈôÃğ"
+RoutineActivityTime: "Day/16:42-19:40" "Week/Tuesday/11:27-13:14" "Week/Tuesday/18:14-19:4" "Day/20:13-23:57"
+/
+DepartmentName: "ĞÏ°ó"
+DepartmentCode: "132079"
+StudentLimit: 11
+Characteristics: "¹èºÀ³µ" "Õ·°´" "Ññ¶ºÒ¥" "ºÙ¹ËÔÚ" "¼ÍĞ¶Ëß"
+RoutineActivityTime: "Day/22:21-24:45" "Week/Friday/22:40-25:55" "Day/12:56-14:8" "Day/14:54-15:49"
+/
+DepartmentName: "ÉåĞÎ"
+DepartmentCode: "132083"
+StudentLimit: 13
+Characteristics: "¼ÍĞ¶Ëß" "ºÙ¹ËÔÚ"
+RoutineActivityTime: "Week/Monday/9:53-12:28" "Day/9:29-12:5" "Day/20:3-21:31"
+/
+DepartmentName: "µáÊ¸²ü"
+DepartmentCode: "132086"
+StudentLimit: 12
+Characteristics: "¶ØÄ¤²ø" "¶ğÁÒÉú" "²õ¶±" "°«É¯ÌÉ" "¼ÍĞ¶Ëß" "¹èºÀ³µ"
+RoutineActivityTime: "Day/21:6-22:42" "Week/Sunday/20:48-22:31" "Week/Wednesday/21:9-22:1" "Day/22:28-23:55"
+/
+DepartmentName: "ÄòÈ÷Æè"
+DepartmentCode: "132091"
+StudentLimit: 15
+Characteristics: "Õ·°´" "Æ¸µ¢»¥" "¼ÍĞ¶Ëß" "°«É¯ÌÉ" "ÄÊËÈÄë"
+RoutineActivityTime: "Week/Friday/10:2-13:1" "Day/12:25-13:41"
+/
+DepartmentName: "ÉÓÓé"
+DepartmentCode: "132093"
+StudentLimit: 13
+Characteristics: "ºêÅÊÓ¾" "¹èºÀ³µ" "¶ØÄ¤²ø" "²õ¶±" "¼ÍĞ¶Ëß" "ºêÅÊÓ¾"
+RoutineActivityTime: "Day/18:19-19:35" "Day/12:49-14:9"
+/
+Student
+StudentName: "´ªÑû¾á"
+StudentCode: "1702007"
+GradePoint: 9.799910685091126
+Interest: "ºÙ¹ËÔÚ" "ÄòÎ¢"
+DepartmentWishes: "¾ç°îÏÍ" "132036/·ÀÖÒ´ğ" "±ÅÆ¼·Ş"
+FreeTime: "Week/Sunday/22:36-24:34" "Week/Tuesday/12:41-13:27" "Week/Wednesday/12:32-15:10"
+/
+StudentName: "ÉµÁó"
+StudentCode: "1702009"
+GradePoint: 5.121928744981121
+Interest: "Ò¸ÈôÃğ" "ÄÊËÈÄë"
+DepartmentWishes: "132083/ÉåĞÎ" "Í£ÄÎÏø" "132091/ÄòÈ÷Æè" "132009/Ñ¿ÍÆ"
+FreeTime: "Day/10:44-11:13" "Day/18:22-20:58" "Day/24:0-27:46" "Day/14:19-16:15"
+/
+StudentName: "Á÷Å·"
+StudentCode: "1702014"
+GradePoint: 9.36360507968875
+Interest: "Ê¥¿¨" "Æ»·ûÓÄ" "²õ¶±" "ÄÊËÈÄë" "¼ÍĞ¶Ëß" "¹èºÀ³µ"
+DepartmentWishes: "µáÊ¸²ü" "132091/ÄòÈ÷Æè"
+FreeTime: "Day/19:33-20:36" "Day/15:37-16:34"
+/
+StudentName: "Å´¾Ş°À"
+StudentCode: "1702020"
+GradePoint: 9.0130355635388
+Interest: "Ê¥¿¨" "Õ·°´" "ºñÊÃ" "Ê¥¿¨"
+DepartmentWishes: "³¿¶À" "132047/¾ç°îÏÍ"
+FreeTime: "Day/16:20-18:39" "Day/12:42-14:51"
+/
+StudentName: "Ä»Ê×"
+StudentCode: "1702025"
+GradePoint: 8.283103707349653
+Interest: "Ê·ÑÑ" "Õ·°´" "Õ·°´"
+DepartmentWishes: "È×ËË" "132036/·ÀÖÒ´ğ" "132005/Ô§ÒıÖè"
+FreeTime: "Day/18:34-19:20" "Day/23:21-26:1" "Day/24:54-27:18" "Day/10:31-13:15"
+/
+StudentName: "µ£ÂÚ"
+StudentCode: "1702031"
+GradePoint: 9.89906176627936
+Interest: "ºñÊÃ" "ºêÅÊÓ¾" "Æ»·ûÓÄ"
+DepartmentWishes: "132005/Ô§ÒıÖè" "132028/µÖÉõ"
+FreeTime: "Day/20:7-23:21"
+/
+StudentName: "ÅùÑß"
+StudentCode: "1702034"
+GradePoint: 7.9731472924952165
+Interest: "Ê·ÑÑ" "ºİÑİ"
+DepartmentWishes: "132068/³¨ºâ" "·¤Óé" "·ÀÖÒ´ğ" "·ÏÌÈÖŞ"
+FreeTime: "Day/17:52-18:35" "Day/15:1-16:10" "Day/9:2-10:3"
+/
+StudentName: "ÒŞÍô"
+StudentCode: "1702036"
+GradePoint: 5.418777756404743
+Interest: "¹èºÀ³µ" "Æ»·ûÓÄ"
+DepartmentWishes: "·ÏÌÈÖŞ" "132086/µáÊ¸²ü"
+FreeTime: "Day/11:38-12:16" "Day/15:30-16:45"
+/
+StudentName: "ÊÂËÒ·İ"
+StudentCode: "1702040"
+GradePoint: 5.063455898938984
+Interest: "ÓÂÖ§" "Ññ¶ºÒ¥" "ºİÑİ"
+DepartmentWishes: "132012/µ¬Î¡" "132086/µáÊ¸²ü" "132005/Ô§ÒıÖè" "ÄòÈ÷Æè"
+FreeTime: "Week/Tuesday/16:56-19:38"
+/
+StudentName: "Ô¹ÂİÁù"
+StudentCode: "1702047"
+GradePoint: 4.672882854140597
+Interest: "¼ÍĞ¶Ëß"
+DepartmentWishes: "132042/³¿¶À"
+FreeTime: "Day/9:12-10:43" "Day/17:21-18:1"
+/
+StudentName: "ÉÁ´¬"
+StudentCode: "1702052"
+GradePoint: 6.811712140161195
+Interest: "ºñÊÃ" "ÄòÎ¢"
+DepartmentWishes: "132042/³¿¶À" "¼ùÈ³´ç" "132009/Ñ¿ÍÆ" "³¨ºâ"
+FreeTime: "Day/20:18-22:54" "Day/9:10-11:42" "Day/9:8-12:49" "Day/12:38-15:31"
+/
+StudentName: "Ë¤ÁÙ"
+StudentCode: "1702056"
+GradePoint: 4.956084895564684
+Interest: "°«É¯ÌÉ" "Æ¸µ¢»¥" "°«É¯ÌÉ" "ÄÊËÈÄë" "ÓÂÖ§" "Ò¸ÈôÃğ"
+DepartmentWishes: "132053/±ÅÆ¼·Ş" "ĞÏ°ó"
+FreeTime: "Week/Sunday/12:5-14:20"
+/
+StudentName: "ÎÕÉÒ"
+StudentCode: "1702058"
+GradePoint: 9.830920384964276
+Interest: "¼ÍĞ¶Ëß" "ºñÊÃ" "°«É¯ÌÉ" "Æ¸µ¢»¥" "Æ»·ûÓÄ" "°«É¯ÌÉ"
+DepartmentWishes: "ÈèÖğ" "132091/ÄòÈ÷Æè" "µÖÉõ"
+FreeTime: "Day/22:17-24:21" "Day/23:9-25:55" "Day/10:23-13:36"
+/
+StudentName: "Åùº®"
+StudentCode: "1702064"
+GradePoint: 6.633607157122329
+Interest: "Æ»·ûÓÄ" "Õ·°´" "Ê·ÑÑ" "ºêÅÊÓ¾" "Æ¸µ¢»¥"
+DepartmentWishes: "132086/µáÊ¸²ü" "132068/³¨ºâ" "132083/ÉåĞÎ" "132060/·ÏÌÈÖŞ"
+FreeTime: "Week/Thursday/24:13-25:2"
+/
+StudentName: "Éõº©ÖÆ"
+StudentCode: "1702071"
+GradePoint: 5.915679223871253
+Interest: "ÓÂÖ§" "ºİÑİ" "°«É¯ÌÉ"
+DepartmentWishes: "ĞÏ°ó" "132047/¾ç°îÏÍ" "132074/¼ùÈ³´ç" "µáÊ¸²ü"
+FreeTime: "Week/Sunday/13:47-14:55" "Week/Saturday/12:24-15:52" "Week/Saturday/21:32-23:20"
+/
+StudentName: "º²¶¹"
+StudentCode: "1702075"
+GradePoint: 7.1919561901725775
+Interest: "Æ»·ûÓÄ" "¶ØÄ¤²ø" "ÓÂÖ§" "Æ¸µ¢»¥"
+DepartmentWishes: "ÄòÈ÷Æè" "132005/Ô§ÒıÖè" "¼ùÈ³´ç"
+FreeTime: "Day/22:31-25:6" "Day/9:55-11:1" "Day/13:29-14:26" "Day/22:15-25:19"
+/
+StudentName: "Ñ³ÓèÔë"
+StudentCode: "1702081"
+GradePoint: 6.073640414859957
+Interest: "Æ¸µ¢»¥"
+DepartmentWishes: "¾ç°îÏÍ"
+FreeTime: "Week/Sunday/20:53-22:25"
+/
+StudentName: "¸æÀı"
+StudentCode: "1702086"
+GradePoint: 5.863820634303993
+Interest: "Ò¸ÈôÃğ" "Ê·ÑÑ" "ÄÊËÈÄë" "Ê¥¿¨"
+DepartmentWishes: "¼ùÈ³´ç" "ĞÏ°ó" "132063/ÈèÖğ"
+FreeTime: "Week/Monday/11:53-13:54"
+/
+StudentName: "É®Åå"
+StudentCode: "1702091"
+GradePoint: 5.740453889332651
+Interest: "²õ¶±" "ºÙ¹ËÔÚ"
+DepartmentWishes: "Í£ÄÎÏø" "·ÏÌÈÖŞ" "132042/³¿¶À" "Ñ¿ÍÆ"
+FreeTime: "Day/11:1-12:8" "Day/11:21-12:56"
+/
+StudentName: "¶ûÈ¢"
+StudentCode: "1702097"
+GradePoint: 6.000964264017172
+Interest: "Ê¥¿¨" "ºİÑİ" "ºêÅÊÓ¾" "¹èºÀ³µ" "ÄòÎ¢" "ÓÂÖ§"
+DepartmentWishes: "132018/·¤Óé" "132009/Ñ¿ÍÆ" "132079/ĞÏ°ó" "±ÅÆ¼·Ş"
+FreeTime: "Day/11:23-12:50" "Day/21:41-24:54" "Day/16:37-18:1" "Day/16:42-18:14"
+/
+StudentName: "·¸¾î´Ø"
+StudentCode: "1702103"
+GradePoint: 5.054396594992747
+Interest: "ÄÊËÈÄë"
+DepartmentWishes: "ÈèÖğ"
+FreeTime: "Day/20:30-23:29" "Day/23:8-25:5" "Day/17:42-18:40"
+/
+StudentName: "¸¼Óı"
+StudentCode: "1702107"
+GradePoint: 5.710962093857078
+Interest: "ºñÊÃ" "¹èºÀ³µ" "ºêÅÊÓ¾"
+DepartmentWishes: "µáÊ¸²ü" "132079/ĞÏ°ó"
+FreeTime: "Day/15:27-17:25" "Day/18:47-21:22"
+/
+StudentName: "µÖÎÈÒı"
+StudentCode: "1702112"
+GradePoint: 4.319477696040478
+Interest: "¹èºÀ³µ" "Ê·ÑÑ"
+DepartmentWishes: "·ÏÌÈÖŞ"
+FreeTime: "Week/Saturday/14:48-16:56" "Week/Thursday/10:39-13:1" "Week/Monday/12:25-14:53"
+/
+StudentName: "±ö±õ"
+StudentCode: "1702116"
+GradePoint: 9.249672609583246
+Interest: "²õ¶±" "Æ¸µ¢»¥" "ÄÊËÈÄë" "¶ğÁÒÉú"
+DepartmentWishes: "Í£ÄÎÏø" "132053/±ÅÆ¼·Ş"
+FreeTime: "Week/Sunday/10:48-13:52" "Week/Wednesday/17:16-18:42"
+/
+StudentName: "Éä¼ê"
+StudentCode: "1702122"
+GradePoint: 6.614989095628626
+Interest: "Æ¸µ¢»¥" "ºÙ¹ËÔÚ" "²õ¶±" "°«É¯ÌÉ" "¼ÍĞ¶Ëß" "¹èºÀ³µ"
+DepartmentWishes: "132005/Ô§ÒıÖè" "132036/·ÀÖÒ´ğ" "ÉåĞÎ" "¾ç°îÏÍ"
+FreeTime: "Week/Sunday/23:32-24:32" "Week/Wednesday/18:36-21:33" "Week/Thursday/19:9-20:9" "Week/Tuesday/13:13-14:16"
+/
+StudentName: "´úÀİ"
+StudentCode: "1702125"
+GradePoint: 8.843883980609888
+Interest: "ºêÅÊÓ¾" "ºİÑİ" "²õ¶±" "ÓÂÖ§" "Æ¸µ¢»¥"
+DepartmentWishes: "132079/ĞÏ°ó"
+FreeTime: "Day/21:55-23:34"
+/
+StudentName: "Ï¼¹É"
+StudentCode: "1702129"
+GradePoint: 9.009176994137695
+Interest: "°«É¯ÌÉ" "¼ÍĞ¶Ëß" "Ê·ÑÑ"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "132060/·ÏÌÈÖŞ"
+FreeTime: "Day/23:47-25:46" "Day/9:50-10:10" "Day/23:7-26:15"
+/
+StudentName: "´ğÁÃ"
+StudentCode: "1702131"
+GradePoint: 4.047848219170518
+Interest: "ÄÊËÈÄë" "Æ»·ûÓÄ"
+DepartmentWishes: "Ô§ÒıÖè" "132079/ĞÏ°ó" "132012/µ¬Î¡" "132018/·¤Óé"
+FreeTime: "Day/15:47-18:53"
+/
+StudentName: "µôÒ¯"
+StudentCode: "1702134"
+GradePoint: 7.350217300949936
+Interest: "ÄòÎ¢" "Æ¸µ¢»¥" "ÄÊËÈÄë"
+DepartmentWishes: "Ô§ÒıÖè"
+FreeTime: "Day/18:6-21:41"
+/
+StudentName: "µ»¼¼"
+StudentCode: "1702140"
+GradePoint: 6.0021303771433825
+Interest: "Ññ¶ºÒ¥" "¼ÍĞ¶Ëß" "ÓÂÖ§"
+DepartmentWishes: "µáÊ¸²ü" "Ñ¿ÍÆ" "132033/È×ËË"
+FreeTime: "Day/18:36-19:25" "Day/17:31-18:12" "Day/11:48-12:30" "Day/10:52-11:7"
+/
+StudentName: "ÏæÒÄÊÕ"
+StudentCode: "1702147"
+GradePoint: 5.694176843455506
+Interest: "ÓÂÖ§" "°«É¯ÌÉ"
+DepartmentWishes: "132018/·¤Óé"
+FreeTime: "Day/15:29-18:58" "Day/21:26-24:23" "Day/10:58-13:39" "Day/20:27-22:10"
+/
+StudentName: "Ç¶ÑºÇ£"
+StudentCode: "1702151"
+GradePoint: 6.088774861171912
+Interest: "Ò¸ÈôÃğ" "ºİÑİ" "Ê·ÑÑ" "ºêÅÊÓ¾" "Õ·°´"
+DepartmentWishes: "ÉÓÓé" "132033/È×ËË" "132009/Ñ¿ÍÆ" "132074/¼ùÈ³´ç"
+FreeTime: "Day/11:41-14:0"
+/
+StudentName: "³Ì¿²"
+StudentCode: "1702157"
+GradePoint: 8.427433046828572
+Interest: "Ê·ÑÑ" "Ññ¶ºÒ¥"
+DepartmentWishes: "³¨ºâ" "132028/µÖÉõ" "132009/Ñ¿ÍÆ" "È×ËË"
+FreeTime: "Day/9:5-10:34" "Day/19:21-21:25" "Day/15:57-17:17" "Day/15:51-17:0"
+/
+StudentName: "Æ£ÓğÇ·"
+StudentCode: "1702162"
+GradePoint: 4.430042320065236
+Interest: "Ññ¶ºÒ¥" "¼ÍĞ¶Ëß" "¶ØÄ¤²ø"
+DepartmentWishes: "µ¬Î¡"
+FreeTime: "Week/Saturday/15:42-17:51"
+/
+StudentName: "»ñÔüÒÓ"
+StudentCode: "1702166"
+GradePoint: 8.161340082752425
+Interest: "¶ØÄ¤²ø" "ÄÊËÈÄë" "Ê·ÑÑ" "²õ¶±"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "³¨ºâ" "132083/ÉåĞÎ"
+FreeTime: "Day/16:59-18:24" "Day/13:41-14:28" "Day/15:56-18:54" "Day/16:13-17:47"
+/
+StudentName: "ÏÃ¹Û"
+StudentCode: "1702171"
+GradePoint: 8.902309837846952
+Interest: "¹èºÀ³µ" "Ê·ÑÑ" "Æ»·ûÓÄ"
+DepartmentWishes: "132083/ÉåĞÎ" "³¿¶À"
+FreeTime: "Day/10:15-13:13"
+/
+StudentName: "ÒÏÔëÕê"
+StudentCode: "1702175"
+GradePoint: 4.9381132913743935
+Interest: "Ê¥¿¨" "°«É¯ÌÉ" "°«É¯ÌÉ"
+DepartmentWishes: "132047/¾ç°îÏÍ"
+FreeTime: "Day/11:10-13:43" "Day/24:41-25:29" "Day/9:0-10:44" "Day/24:55-27:58"
+/
+StudentName: "¿äµ¶Ğ¿"
+StudentCode: "1702181"
+GradePoint: 4.357955816365724
+Interest: "ÄÊËÈÄë" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132063/ÈèÖğ"
+FreeTime: "Day/23:19-25:42" "Day/19:43-22:25"
+/
+StudentName: "ÅÚÀÔ"
+StudentCode: "1702187"
+GradePoint: 8.440707020571772
+Interest: "ºñÊÃ" "Æ»·ûÓÄ" "Æ»·ûÓÄ"
+DepartmentWishes: "132083/ÉåĞÎ" "132074/¼ùÈ³´ç" "132086/µáÊ¸²ü" "132036/·ÀÖÒ´ğ"
+FreeTime: "Day/22:5-25:37" "Day/12:36-14:55" "Day/21:27-22:36" "Day/9:3-11:42"
+/
+StudentName: "É¦ĞÏ"
+StudentCode: "1702191"
+GradePoint: 6.2815426515662836
+Interest: "¼ÍĞ¶Ëß" "ºñÊÃ" "ÓÂÖ§" "°«É¯ÌÉ" "Õ·°´"
+DepartmentWishes: "132005/Ô§ÒıÖè"
+FreeTime: "Week/Friday/16:56-19:22" "Week/Sunday/9:41-10:30" "Week/Thursday/23:35-24:32"
+/
+StudentName: "´Ó¶­¿Õ"
+StudentCode: "1702194"
+GradePoint: 9.132207665360006
+Interest: "ºİÑİ" "¶ğÁÒÉú"
+DepartmentWishes: "ĞÏ°ó" "132086/µáÊ¸²ü" "132042/³¿¶À" "132012/µ¬Î¡"
+FreeTime: "Day/10:41-13:55" "Day/24:21-27:39" "Day/15:56-17:3" "Day/20:55-21:45"
+/
+StudentName: "ÀµÖö"
+StudentCode: "1702197"
+GradePoint: 6.79655036011034
+Interest: "Õ·°´" "Ññ¶ºÒ¥" "ºÙ¹ËÔÚ" "Ò¸ÈôÃğ"
+DepartmentWishes: "132028/µÖÉõ" "·ÏÌÈÖŞ" "ÉÓÓé"
+FreeTime: "Week/Sunday/22:34-24:1" "Week/Tuesday/22:1-23:38"
+/
+StudentName: "ÀªÅÎÇÕ"
+StudentCode: "1702202"
+GradePoint: 7.703859776506404
+Interest: "¼ÍĞ¶Ëß"
+DepartmentWishes: "132005/Ô§ÒıÖè" "132047/¾ç°îÏÍ"
+FreeTime: "Week/Tuesday/11:33-12:11"
+/
+StudentName: "Ê¿Åò"
+StudentCode: "1702206"
+GradePoint: 8.009743277118474
+Interest: "ÄòÎ¢"
+DepartmentWishes: "132091/ÄòÈ÷Æè"
+FreeTime: "Day/16:49-18:24" "Day/9:27-11:39" "Day/20:52-22:17" "Day/12:33-14:37"
+/
+StudentName: "È¹ÓãÌØ"
+StudentCode: "1702213"
+GradePoint: 4.151377797110152
+Interest: "ÄÊËÈÄë" "ÓÂÖ§" "ÄÊËÈÄë" "¹èºÀ³µ" "°«É¯ÌÉ" "ÄòÎ¢"
+DepartmentWishes: "132033/È×ËË" "132042/³¿¶À" "±ÅÆ¼·Ş"
+FreeTime: "Day/11:19-14:35" "Day/17:56-20:43" "Day/21:48-24:51" "Day/21:40-23:10"
+/
+StudentName: "ÀòĞø"
+StudentCode: "1702216"
+GradePoint: 4.373678822559827
+Interest: "ºİÑİ" "Ññ¶ºÒ¥" "¹èºÀ³µ"
+DepartmentWishes: "132009/Ñ¿ÍÆ"
+FreeTime: "Day/16:1-18:28" "Day/11:53-14:14" "Day/15:37-16:41"
+/
+StudentName: "ÈèÖÆ"
+StudentCode: "1702221"
+GradePoint: 6.96465435650175
+Interest: "Õ·°´" "¶ØÄ¤²ø"
+DepartmentWishes: "132053/±ÅÆ¼·Ş" "132060/·ÏÌÈÖŞ"
+FreeTime: "Week/Monday/19:13-22:31" "Week/Tuesday/9:40-12:59" "Week/Thursday/15:24-18:14" "Week/Sunday/24:30-27:42"
+/
+StudentName: "Â·µ¯Å÷"
+StudentCode: "1702225"
+GradePoint: 9.953815114913795
+Interest: "Ññ¶ºÒ¥" "Ññ¶ºÒ¥" "ºİÑİ" "Ê¥¿¨" "Ò¸ÈôÃğ"
+DepartmentWishes: "132047/¾ç°îÏÍ"
+FreeTime: "Week/Monday/13:17-15:55" "Week/Saturday/15:44-17:29" "Week/Thursday/23:38-25:5"
+/
+StudentName: "Ì£À±¹Ê"
+StudentCode: "1702230"
+GradePoint: 9.485498883947312
+Interest: "¶ğÁÒÉú" "¶ØÄ¤²ø" "Æ¸µ¢»¥" "ÓÂÖ§" "¹èºÀ³µ" "ÄÊËÈÄë"
+DepartmentWishes: "¼ùÈ³´ç" "±ÅÆ¼·Ş"
+FreeTime: "Day/10:30-13:51"
+/
+StudentName: "¾Û¿êÇ«"
+StudentCode: "1702237"
+GradePoint: 4.571907353437737
+Interest: "Ê·ÑÑ" "ÓÂÖ§" "¼ÍĞ¶Ëß" "Ò¸ÈôÃğ" "Ê¥¿¨"
+DepartmentWishes: "µáÊ¸²ü" "132068/³¨ºâ" "132012/µ¬Î¡" "132093/ÉÓÓé"
+FreeTime: "Day/15:11-17:25" "Day/13:30-15:57"
+/
+StudentName: "Ò©À°¾«"
+StudentCode: "1702240"
+GradePoint: 9.609133742966545
+Interest: "ÄÊËÈÄë" "°«É¯ÌÉ" "Ññ¶ºÒ¥" "Æ¸µ¢»¥" "Ññ¶ºÒ¥" "ºêÅÊÓ¾"
+DepartmentWishes: "132005/Ô§ÒıÖè" "132091/ÄòÈ÷Æè"
+FreeTime: "Week/Monday/16:30-17:36" "Week/Tuesday/23:27-25:12"
+/
+StudentName: "³äÕÜ±ç"
+StudentCode: "1702246"
+GradePoint: 4.848361308303357
+Interest: "ºêÅÊÓ¾" "Õ·°´" "ÄÊËÈÄë"
+DepartmentWishes: "¼ùÈ³´ç"
+FreeTime: "Week/Monday/23:48-24:36" "Week/Tuesday/12:9-15:24" "Week/Sunday/17:43-20:47" "Week/Saturday/17:35-20:29"
+/
+StudentName: "·ÊÎâÔÂ"
+StudentCode: "1702252"
+GradePoint: 4.040098793799463
+Interest: "Ò¸ÈôÃğ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "µÖÉõ" "132053/±ÅÆ¼·Ş" "132005/Ô§ÒıÖè" "132079/ĞÏ°ó"
+FreeTime: "Week/Monday/19:32-21:2" "Week/Tuesday/10:53-11:10"
+/
+StudentName: "ÑÏºÀÃÁ"
+StudentCode: "1702257"
+GradePoint: 6.980958397544784
+Interest: "Æ»·ûÓÄ" "ÄòÎ¢" "Æ¸µ¢»¥" "ÓÂÖ§" "Ññ¶ºÒ¥"
+DepartmentWishes: "132079/ĞÏ°ó" "132023/Í£ÄÎÏø" "132093/ÉÓÓé"
+FreeTime: "Week/Tuesday/9:12-11:36" "Week/Wednesday/16:28-19:26" "Week/Saturday/16:3-18:5"
+/
+StudentName: "ÀÇ»ì"
+StudentCode: "1702260"
+GradePoint: 7.507985423260078
+Interest: "Õ·°´" "°«É¯ÌÉ" "ºêÅÊÓ¾" "°«É¯ÌÉ" "ÄÊËÈÄë"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "ÈèÖğ" "132023/Í£ÄÎÏø" "132053/±ÅÆ¼·Ş"
+FreeTime: "Day/20:42-21:31" "Day/16:0-17:34"
+/
+StudentName: "ÊáÔ©"
+StudentCode: "1702264"
+GradePoint: 4.479595862549307
+Interest: "²õ¶±" "ºñÊÃ" "ÄòÎ¢" "Ê·ÑÑ" "Ê·ÑÑ" "ÄÊËÈÄë"
+DepartmentWishes: "³¿¶À" "132005/Ô§ÒıÖè"
+FreeTime: "Day/11:32-14:55" "Day/13:50-16:45" "Day/19:38-22:56"
+/
+StudentName: "»»ÈÃ"
+StudentCode: "1702266"
+GradePoint: 6.552226250477437
+Interest: "Ê·ÑÑ" "Ò¸ÈôÃğ" "Æ»·ûÓÄ"
+DepartmentWishes: "µáÊ¸²ü" "132079/ĞÏ°ó"
+FreeTime: "Week/Thursday/12:45-14:37" "Week/Tuesday/20:28-23:21"
+/
+StudentName: "¹ÙÁù¼Ä"
+StudentCode: "1702271"
+GradePoint: 9.7313737767195
+Interest: "°«É¯ÌÉ" "ºİÑİ" "Õ·°´" "ÓÂÖ§"
+DepartmentWishes: "132042/³¿¶À"
+FreeTime: "Week/Thursday/19:45-20:45" "Week/Tuesday/13:38-14:50"
+/
+StudentName: "Ä§ĞğÖ¯"
+StudentCode: "1702274"
+GradePoint: 8.53560375545266
+Interest: "¼ÍĞ¶Ëß" "ºêÅÊÓ¾" "Ññ¶ºÒ¥" "Õ·°´"
+DepartmentWishes: "132086/µáÊ¸²ü" "132042/³¿¶À" "·ÏÌÈÖŞ"
+FreeTime: "Day/10:59-11:28" "Day/13:27-14:20"
+/
+StudentName: "Öí²¢»ó"
+StudentCode: "1702281"
+GradePoint: 4.884677565205971
+Interest: "¶ğÁÒÉú" "Ññ¶ºÒ¥" "ÄòÎ¢"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "132028/µÖÉõ" "µáÊ¸²ü" "132012/µ¬Î¡"
+FreeTime: "Week/Thursday/13:16-15:26" "Week/Wednesday/11:14-12:31" "Week/Tuesday/18:21-19:1" "Week/Friday/12:32-14:45"
+/
+StudentName: "µÜËÉÕ®"
+StudentCode: "1702287"
+GradePoint: 4.378570258478669
+Interest: "¹èºÀ³µ" "ºñÊÃ" "¶ØÄ¤²ø" "°«É¯ÌÉ" "Ññ¶ºÒ¥" "Ê¥¿¨"
+DepartmentWishes: "132033/È×ËË" "132018/·¤Óé" "132047/¾ç°îÏÍ" "132042/³¿¶À"
+FreeTime: "Week/Monday/11:49-14:29"
+/
+StudentName: "É®Õğ¾¥"
+StudentCode: "1702292"
+GradePoint: 6.688173738956239
+Interest: "ºêÅÊÓ¾" "ºñÊÃ" "Ê¥¿¨" "Æ»·ûÓÄ"
+DepartmentWishes: "132083/ÉåĞÎ" "³¿¶À" "ÄòÈ÷Æè"
+FreeTime: "Day/13:15-16:17" "Day/9:30-10:9" "Day/19:37-22:36"
+/
+StudentName: "ÖÌÃä"
+StudentCode: "1702297"
+GradePoint: 7.935833261019935
+Interest: "Ê¥¿¨" "Æ¸µ¢»¥" "ºêÅÊÓ¾" "²õ¶±"
+DepartmentWishes: "132060/·ÏÌÈÖŞ" "132074/¼ùÈ³´ç"
+FreeTime: "Day/23:54-26:16" "Day/23:23-25:24" "Day/11:25-13:20" "Day/12:46-13:7"
+/
+StudentName: "±Ö·ú"
+StudentCode: "1702301"
+GradePoint: 5.269435066403677
+Interest: "²õ¶±"
+DepartmentWishes: "132086/µáÊ¸²ü" "³¨ºâ" "132033/È×ËË"
+FreeTime: "Day/24:59-25:23" "Day/18:23-21:34" "Day/15:27-18:36"
+/
+StudentName: "ÆèÌÍ"
+StudentCode: "1702307"
+GradePoint: 9.840118206726572
+Interest: "Ê·ÑÑ" "ºêÅÊÓ¾" "¹èºÀ³µ"
+DepartmentWishes: "132012/µ¬Î¡" "132074/¼ùÈ³´ç" "132091/ÄòÈ÷Æè" "·ÏÌÈÖŞ"
+FreeTime: "Day/12:9-14:29" "Day/14:6-16:13"
+/
+StudentName: "Öü¹ÓÍÁ"
+StudentCode: "1702311"
+GradePoint: 7.782070486703977
+Interest: "Ê·ÑÑ" "Ê·ÑÑ" "ÄòÎ¢"
+DepartmentWishes: "132063/ÈèÖğ" "³¿¶À" "Ñ¿ÍÆ" "132086/µáÊ¸²ü"
+FreeTime: "Week/Monday/13:58-14:27" "Week/Friday/16:33-17:31"
+/
+StudentName: "ÒË²­Àë"
+StudentCode: "1702316"
+GradePoint: 4.362113594208998
+Interest: "Ññ¶ºÒ¥" "²õ¶±" "°«É¯ÌÉ"
+DepartmentWishes: "132018/·¤Óé" "132063/ÈèÖğ" "132091/ÄòÈ÷Æè"
+FreeTime: "Week/Tuesday/22:40-25:13" "Week/Tuesday/17:28-20:57"
+/
+StudentName: "ÃÒ¶©¶Ú"
+StudentCode: "1702319"
+GradePoint: 9.283085057355013
+Interest: "ºİÑİ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132005/Ô§ÒıÖè" "132042/³¿¶À" "132093/ÉÓÓé" "132086/µáÊ¸²ü"
+FreeTime: "Week/Monday/20:28-22:18"
+/
+StudentName: "°°º¹"
+StudentCode: "1702322"
+GradePoint: 5.297788304419273
+Interest: "ÄÊËÈÄë" "¶ØÄ¤²ø" "Ò¸ÈôÃğ"
+DepartmentWishes: "132079/ĞÏ°ó" "ÄòÈ÷Æè"
+FreeTime: "Day/23:13-26:22" "Day/13:11-16:17" "Day/12:56-13:28"
+/
+StudentName: "ÁõµÓÊÙ"
+StudentCode: "1702329"
+GradePoint: 5.959407559008277
+Interest: "Æ»·ûÓÄ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132053/±ÅÆ¼·Ş" "¼ùÈ³´ç"
+FreeTime: "Day/24:59-27:31" "Day/24:34-27:50" "Day/16:59-18:43"
+/
+StudentName: "¹ÍÀïÀŞ"
+StudentCode: "1702334"
+GradePoint: 8.505926365280597
+Interest: "Æ»·ûÓÄ" "²õ¶±"
+DepartmentWishes: "132053/±ÅÆ¼·Ş"
+FreeTime: "Day/19:52-22:37" "Day/11:26-14:6" "Day/23:0-24:15"
+/
+StudentName: "¿¿ÍÆ"
+StudentCode: "1702339"
+GradePoint: 7.826117258091453
+Interest: "ºÙ¹ËÔÚ" "Õ·°´" "¼ÍĞ¶Ëß" "ÄÊËÈÄë" "ÓÂÖ§"
+DepartmentWishes: "ÉåĞÎ" "132028/µÖÉõ"
+FreeTime: "Day/20:3-22:0" "Day/16:45-19:26" "Day/16:31-17:27"
+/
+StudentName: "Ââ½ë"
+StudentCode: "1702341"
+GradePoint: 6.958880918399888
+Interest: "²õ¶±" "ÄòÎ¢"
+DepartmentWishes: "132018/·¤Óé" "132086/µáÊ¸²ü" "ÈèÖğ" "132028/µÖÉõ"
+FreeTime: "Day/12:37-13:10" "Day/18:38-19:32"
+/
+StudentName: "ÆÚÈ«ÉÆ"
+StudentCode: "1702346"
+GradePoint: 8.466398722375402
+Interest: "¶ØÄ¤²ø" "Ê¥¿¨" "ºêÅÊÓ¾" "ºêÅÊÓ¾"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "Ñ¿ÍÆ" "132053/±ÅÆ¼·Ş"
+FreeTime: "Day/22:47-25:13" "Day/11:52-14:36" "Day/14:26-17:1" "Day/12:28-15:20"
+/
+StudentName: "Å¯³÷¸¤"
+StudentCode: "1702351"
+GradePoint: 7.2988675833941326
+Interest: "¶ØÄ¤²ø" "¼ÍĞ¶Ëß" "ÓÂÖ§" "¹èºÀ³µ" "¶ØÄ¤²ø"
+DepartmentWishes: "132042/³¿¶À" "132063/ÈèÖğ" "132036/·ÀÖÒ´ğ"
+FreeTime: "Week/Tuesday/22:28-25:40" "Week/Wednesday/24:17-25:13" "Week/Wednesday/16:57-18:58" "Week/Monday/17:54-18:44"
+/
+StudentName: "°õÁíÃÁ"
+StudentCode: "1702355"
+GradePoint: 6.257330802276195
+Interest: "Ê·ÑÑ"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "132047/¾ç°îÏÍ" "132012/µ¬Î¡" "132028/µÖÉõ"
+FreeTime: "Day/9:23-12:28" "Day/14:51-15:15" "Day/13:5-16:3"
+/
+StudentName: "ÑºÅµµ×"
+StudentCode: "1702362"
+GradePoint: 4.400510274283564
+Interest: "¼ÍĞ¶Ëß" "Æ»·ûÓÄ" "ÄÊËÈÄë" "ÄÊËÈÄë" "ºÙ¹ËÔÚ" "Ò¸ÈôÃğ"
+DepartmentWishes: "132028/µÖÉõ" "132079/ĞÏ°ó"
+FreeTime: "Week/Friday/9:6-10:51"
+/
+StudentName: "ºãÒÌÅÍ"
+StudentCode: "1702366"
+GradePoint: 4.363679621510822
+Interest: "Õ·°´" "ÄòÎ¢" "²õ¶±"
+DepartmentWishes: "È×ËË" "132023/Í£ÄÎÏø" "132063/ÈèÖğ"
+FreeTime: "Day/11:19-13:44" "Day/18:9-19:27" "Day/14:45-15:18" "Day/14:35-17:12"
+/
+StudentName: "¼¨°Ù"
+StudentCode: "1702369"
+GradePoint: 6.026370585600696
+Interest: "²õ¶±" "Æ»·ûÓÄ" "°«É¯ÌÉ"
+DepartmentWishes: "Ô§ÒıÖè" "132018/·¤Óé" "132012/µ¬Î¡"
+FreeTime: "Day/23:40-26:36"
+/
+StudentName: "ÖØÒ¾ÄŞ"
+StudentCode: "1702375"
+GradePoint: 9.319576123039795
+Interest: "ºêÅÊÓ¾" "°«É¯ÌÉ"
+DepartmentWishes: "³¨ºâ" "132012/µ¬Î¡" "ÉåĞÎ" "132047/¾ç°îÏÍ"
+FreeTime: "Day/16:14-17:19"
+/
+StudentName: "½£Åğ"
+StudentCode: "1702377"
+GradePoint: 8.546698332039155
+Interest: "Ò¸ÈôÃğ" "¶ğÁÒÉú" "Ê·ÑÑ"
+DepartmentWishes: "132068/³¨ºâ" "132028/µÖÉõ" "ÉåĞÎ" "ÄòÈ÷Æè"
+FreeTime: "Day/22:14-24:46"
+/
+StudentName: "ÏİºÂ¹½"
+StudentCode: "1702381"
+GradePoint: 5.481983049415865
+Interest: "ÄÊËÈÄë" "Õ·°´" "ºñÊÃ" "¼ÍĞ¶Ëß" "Ññ¶ºÒ¥" "ÄÊËÈÄë"
+DepartmentWishes: "132036/·ÀÖÒ´ğ"
+FreeTime: "Day/20:36-22:19" "Day/23:4-26:41"
+/
+StudentName: "Ö·ÒÓµë"
+StudentCode: "1702385"
+GradePoint: 7.378608886139523
+Interest: "¶ğÁÒÉú" "Ê·ÑÑ" "²õ¶±"
+DepartmentWishes: "132005/Ô§ÒıÖè" "132063/ÈèÖğ" "132018/·¤Óé" "³¨ºâ"
+FreeTime: "Day/15:10-16:33" "Day/24:6-25:12" "Day/24:5-26:53" "Day/24:27-25:4"
+/
+StudentName: "³Ë·¡"
+StudentCode: "1702391"
+GradePoint: 6.227823111928858
+Interest: "Ê·ÑÑ" "ÄòÎ¢" "¹èºÀ³µ"
+DepartmentWishes: "132033/È×ËË"
+FreeTime: "Day/24:42-25:24" "Day/10:45-12:0" "Day/20:19-22:41"
+/
+StudentName: "ÕæÃ®"
+StudentCode: "1702397"
+GradePoint: 7.701274530521352
+Interest: "ºñÊÃ" "Ê¥¿¨" "ºİÑİ"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "132028/µÖÉõ" "ÄòÈ÷Æè"
+FreeTime: "Week/Monday/17:38-19:44" "Week/Monday/23:51-24:17"
+/
+StudentName: "Ô­À­³¹"
+StudentCode: "1702404"
+GradePoint: 8.378912818972054
+Interest: "°«É¯ÌÉ"
+DepartmentWishes: "ÄòÈ÷Æè" "ÈèÖğ" "132036/·ÀÖÒ´ğ" "132005/Ô§ÒıÖè"
+FreeTime: "Day/23:3-26:51" "Day/17:11-20:51" "Day/20:13-23:3" "Day/23:59-25:13"
+/
+StudentName: "ÁëÀ´ËÄ"
+StudentCode: "1702408"
+GradePoint: 6.7234151848152655
+Interest: "ºñÊÃ" "Æ¸µ¢»¥" "¶ØÄ¤²ø" "ÓÂÖ§" "¶ØÄ¤²ø" "Õ·°´"
+DepartmentWishes: "132060/·ÏÌÈÖŞ"
+FreeTime: "Week/Sunday/10:40-13:30" "Week/Thursday/23:7-26:9" "Week/Sunday/19:7-21:2"
+/
+StudentName: "¼·ÈØ"
+StudentCode: "1702410"
+GradePoint: 9.8207463545278
+Interest: "Ê¥¿¨"
+DepartmentWishes: "·¤Óé" "132005/Ô§ÒıÖè" "132047/¾ç°îÏÍ"
+FreeTime: "Week/Sunday/21:49-22:29" "Week/Thursday/14:59-15:6"
+/
+StudentName: "ÒÃºç¾í"
+StudentCode: "1702416"
+GradePoint: 5.713539476638916
+Interest: "ÄòÎ¢" "¼ÍĞ¶Ëß" "²õ¶±" "¹èºÀ³µ" "ºÙ¹ËÔÚ" "ºñÊÃ"
+DepartmentWishes: "ĞÏ°ó"
+FreeTime: "Day/23:32-24:44"
+/
+StudentName: "ÄôÆà¾Ó"
+StudentCode: "1702421"
+GradePoint: 4.454208685466493
+Interest: "Ññ¶ºÒ¥" "ÄòÎ¢" "°«É¯ÌÉ" "¼ÍĞ¶Ëß"
+DepartmentWishes: "ĞÏ°ó"
+FreeTime: "Day/15:12-16:35" "Day/11:24-14:12"
+/
+StudentName: "ÉÃ¼¹ÑÉ"
+StudentCode: "1702426"
+GradePoint: 7.420791723302186
+Interest: "Ò¸ÈôÃğ" "°«É¯ÌÉ" "ºİÑİ" "Ê·ÑÑ"
+DepartmentWishes: "±ÅÆ¼·Ş" "³¨ºâ" "Ñ¿ÍÆ"
+FreeTime: "Day/10:10-11:12" "Day/10:14-13:57" "Day/18:48-19:33" "Day/9:46-11:30"
+/
+StudentName: "½Ö²ô"
+StudentCode: "1702432"
+GradePoint: 9.103926380252382
+Interest: "Ò¸ÈôÃğ" "Ê¥¿¨" "ÓÂÖ§"
+DepartmentWishes: "·ÀÖÒ´ğ" "132005/Ô§ÒıÖè" "ÉÓÓé"
+FreeTime: "Week/Thursday/22:43-25:14" "Week/Wednesday/21:9-24:2" "Week/Sunday/16:33-18:42"
+/
+StudentName: "ºî²³°Î"
+StudentCode: "1702436"
+GradePoint: 5.19447840020522
+Interest: "Æ»·ûÓÄ" "ÓÂÖ§" "Ò¸ÈôÃğ" "ºêÅÊÓ¾"
+DepartmentWishes: "¼ùÈ³´ç" "ÈèÖğ" "132018/·¤Óé" "132053/±ÅÆ¼·Ş"
+FreeTime: "Week/Friday/24:0-26:30"
+/
+StudentName: "³¶¹ö"
+StudentCode: "1702442"
+GradePoint: 4.585635096295729
+Interest: "Æ»·ûÓÄ" "ºñÊÃ" "Õ·°´" "¹èºÀ³µ"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "·ÏÌÈÖŞ" "132028/µÖÉõ" "132063/ÈèÖğ"
+FreeTime: "Week/Wednesday/15:6-18:26" "Week/Monday/18:53-21:25" "Week/Thursday/16:44-17:25"
+/
+StudentName: "ÆíÆ¡¾«"
+StudentCode: "1702448"
+GradePoint: 4.864676078244149
+Interest: "ºİÑİ"
+DepartmentWishes: "132047/¾ç°îÏÍ" "132036/·ÀÖÒ´ğ" "132009/Ñ¿ÍÆ" "È×ËË"
+FreeTime: "Day/13:33-16:38"
+/
+StudentName: "Î³Å±±ï"
+StudentCode: "1702453"
+GradePoint: 7.2877542152785075
+Interest: "ÄòÎ¢" "ºñÊÃ"
+DepartmentWishes: "132047/¾ç°îÏÍ" "132060/·ÏÌÈÖŞ"
+FreeTime: "Day/10:19-11:25"
+/
+StudentName: "Í´µÓÇã"
+StudentCode: "1702459"
+GradePoint: 5.539867375840505
+Interest: "Ò¸ÈôÃğ" "ºİÑİ" "ÓÂÖ§" "Ê¥¿¨" "°«É¯ÌÉ" "ÓÂÖ§"
+DepartmentWishes: "Í£ÄÎÏø" "³¿¶À" "132036/·ÀÖÒ´ğ"
+FreeTime: "Week/Tuesday/11:34-13:23"
+/
+StudentName: "ÄÃÈï¶Ä"
+StudentCode: "1702465"
+GradePoint: 5.427374063671711
+Interest: "ºİÑİ" "ºÙ¹ËÔÚ" "ºİÑİ" "ÄÊËÈÄë" "Ññ¶ºÒ¥" "ÄÊËÈÄë"
+DepartmentWishes: "·¤Óé" "132086/µáÊ¸²ü" "132028/µÖÉõ" "¼ùÈ³´ç"
+FreeTime: "Day/19:28-20:8" "Day/10:18-12:11" "Day/23:25-24:31"
+/
+StudentName: "Ó¿·ô"
+StudentCode: "1702469"
+GradePoint: 4.69407433126489
+Interest: "Ê¥¿¨" "Õ·°´" "ºñÊÃ" "²õ¶±" "ºñÊÃ"
+DepartmentWishes: "ÈèÖğ"
+FreeTime: "Week/Saturday/16:46-19:14" "Week/Friday/23:56-24:25"
+/
+StudentName: "µ²Ö«"
+StudentCode: "1702472"
+GradePoint: 6.997783541315288
+Interest: "ÓÂÖ§" "Æ¸µ¢»¥" "¶ØÄ¤²ø" "²õ¶±" "Ê¥¿¨"
+DepartmentWishes: "132053/±ÅÆ¼·Ş" "¼ùÈ³´ç" "132079/ĞÏ°ó" "¾ç°îÏÍ"
+FreeTime: "Day/22:46-25:53" "Day/13:45-15:34" "Day/19:30-21:13"
+/
+StudentName: "Òº·Æ"
+StudentCode: "1702475"
+GradePoint: 4.6389248592541765
+Interest: "ºÙ¹ËÔÚ" "ÄòÎ¢" "ÄÊËÈÄë" "ºİÑİ"
+DepartmentWishes: "132091/ÄòÈ÷Æè"
+FreeTime: "Week/Monday/11:51-13:57" "Week/Wednesday/24:34-27:34" "Week/Monday/10:12-12:14"
+/
+StudentName: "´ĞÈ°Àû"
+StudentCode: "1702482"
+GradePoint: 8.367758070367072
+Interest: "Æ»·ûÓÄ" "Õ·°´" "Ññ¶ºÒ¥" "ÄòÎ¢" "ºêÅÊÓ¾"
+DepartmentWishes: "132005/Ô§ÒıÖè" "132047/¾ç°îÏÍ"
+FreeTime: "Day/19:57-21:14"
+/
+StudentName: "ºŞÅ°±ª"
+StudentCode: "1702485"
+GradePoint: 8.995985559574194
+Interest: "Æ¸µ¢»¥"
+DepartmentWishes: "µÖÉõ" "132005/Ô§ÒıÖè" "132083/ÉåĞÎ" "132042/³¿¶À"
+FreeTime: "Week/Monday/12:27-14:9" "Week/Sunday/21:42-24:52" "Week/Thursday/19:23-22:50" "Week/Saturday/21:21-23:19"
+/
+StudentName: "µÊËµ¾¤"
+StudentCode: "1702492"
+GradePoint: 9.602964326412508
+Interest: "ÄÊËÈÄë" "¶ØÄ¤²ø" "²õ¶±" "¶ğÁÒÉú" "Ò¸ÈôÃğ"
+DepartmentWishes: "132063/ÈèÖğ" "132086/µáÊ¸²ü" "È×ËË" "132018/·¤Óé"
+FreeTime: "Day/15:47-17:10" "Day/15:50-18:35"
+/
+StudentName: "ÕºĞó"
+StudentCode: "1702497"
+GradePoint: 5.066791333730382
+Interest: "ºñÊÃ"
+DepartmentWishes: "132023/Í£ÄÎÏø" "132012/µ¬Î¡" "132036/·ÀÖÒ´ğ"
+FreeTime: "Week/Saturday/13:59-16:38" "Week/Tuesday/16:46-19:57" "Week/Tuesday/10:42-11:6"
+/
+StudentName: "È»Ôô"
+StudentCode: "1702501"
+GradePoint: 4.210416262532815
+Interest: "ÄòÎ¢" "Õ·°´" "Ññ¶ºÒ¥" "Ò¸ÈôÃğ" "ÄÊËÈÄë" "ºñÊÃ"
+DepartmentWishes: "132060/·ÏÌÈÖŞ" "132047/¾ç°îÏÍ" "ÈèÖğ" "132093/ÉÓÓé"
+FreeTime: "Day/14:21-17:9"
+/
+StudentName: "Ô¯³·"
+StudentCode: "1702505"
+GradePoint: 7.036672393001783
+Interest: "Ê¥¿¨" "¶ğÁÒÉú" "²õ¶±" "¶ğÁÒÉú" "¼ÍĞ¶Ëß" "Æ»·ûÓÄ"
+DepartmentWishes: "132042/³¿¶À" "µáÊ¸²ü" "132068/³¨ºâ" "132036/·ÀÖÒ´ğ"
+FreeTime: "Day/17:31-19:21" "Day/15:53-17:5"
+/
+StudentName: "Õ¥´¿"
+StudentCode: "1702508"
+GradePoint: 6.738303931031935
+Interest: "¶ØÄ¤²ø" "Æ¸µ¢»¥" "ºÙ¹ËÔÚ" "Æ»·ûÓÄ" "ÄÊËÈÄë" "Ññ¶ºÒ¥"
+DepartmentWishes: "132068/³¨ºâ" "132033/È×ËË" "132074/¼ùÈ³´ç" "132083/ÉåĞÎ"
+FreeTime: "Week/Saturday/16:49-19:45" "Week/Saturday/10:56-12:18" "Week/Monday/21:49-24:7"
+/
+StudentName: "¾ëÏìÃÃ"
+StudentCode: "1702515"
+GradePoint: 5.761932271955618
+Interest: "¶ğÁÒÉú" "Ññ¶ºÒ¥" "Ê·ÑÑ" "ºêÅÊÓ¾" "Ò¸ÈôÃğ"
+DepartmentWishes: "¼ùÈ³´ç" "132009/Ñ¿ÍÆ" "132005/Ô§ÒıÖè"
+FreeTime: "Week/Thursday/18:42-19:5" "Week/Saturday/18:49-21:17"
+/
+StudentName: "²í¹¶³Æ"
+StudentCode: "1702520"
+GradePoint: 6.965019933159109
+Interest: "ºİÑİ" "¹èºÀ³µ" "¶ğÁÒÉú" "¶ğÁÒÉú" "ÓÂÖ§" "ÓÂÖ§"
+DepartmentWishes: "132086/µáÊ¸²ü" "ÈèÖğ" "132036/·ÀÖÒ´ğ"
+FreeTime: "Day/11:43-14:51" "Day/18:23-19:38" "Day/18:40-21:53" "Day/17:6-19:24"
+/
+StudentName: "ÓÕÀôÂÂ"
+StudentCode: "1702527"
+GradePoint: 9.350454191065335
+Interest: "ºñÊÃ" "Ê·ÑÑ" "Õ·°´" "¶ğÁÒÉú" "¶ğÁÒÉú" "Ññ¶ºÒ¥"
+DepartmentWishes: "132053/±ÅÆ¼·Ş" "132068/³¨ºâ"
+FreeTime: "Day/10:32-13:49" "Day/20:25-21:11" "Day/19:34-21:16" "Day/24:20-26:35"
+/
+StudentName: "ÇèÄÀÀ¦"
+StudentCode: "1702530"
+GradePoint: 9.374280897432577
+Interest: "¶ØÄ¤²ø" "ºñÊÃ" "Æ¸µ¢»¥"
+DepartmentWishes: "·¤Óé" "·ÏÌÈÖŞ" "Ô§ÒıÖè" "¾ç°îÏÍ"
+FreeTime: "Day/16:1-18:19" "Day/9:53-10:51"
+/
+StudentName: "²Ç³ÅµÊ"
+StudentCode: "1702537"
+GradePoint: 5.65024660863057
+Interest: "Ê·ÑÑ" "²õ¶±" "Æ¸µ¢»¥" "ºñÊÃ" "ºñÊÃ"
+DepartmentWishes: "132012/µ¬Î¡" "132033/È×ËË" "132036/·ÀÖÒ´ğ"
+FreeTime: "Day/16:32-17:58"
+/
+StudentName: "´Ö½ö"
+StudentCode: "1702540"
+GradePoint: 9.758845019382395
+Interest: "ÓÂÖ§" "Æ»·ûÓÄ" "¶ØÄ¤²ø"
+DepartmentWishes: "132028/µÖÉõ"
+FreeTime: "Day/24:15-26:12" "Day/18:36-21:13"
+/
+StudentName: "Í­²¢"
+StudentCode: "1702546"
+GradePoint: 8.429036943347024
+Interest: "ÓÂÖ§" "ºÙ¹ËÔÚ" "¹èºÀ³µ" "¶ØÄ¤²ø"
+DepartmentWishes: "¾ç°îÏÍ" "·ÏÌÈÖŞ" "132074/¼ùÈ³´ç"
+FreeTime: "Day/12:54-14:16" "Day/15:49-17:36" "Day/19:52-20:45" "Day/22:1-24:24"
+/
+StudentName: "Ğú½º¸ğ"
+StudentCode: "1702553"
+GradePoint: 9.41162731367968
+Interest: "Æ»·ûÓÄ" "ºİÑİ" "Ññ¶ºÒ¥"
+DepartmentWishes: "±ÅÆ¼·Ş" "³¨ºâ" "132023/Í£ÄÎÏø"
+FreeTime: "Day/17:38-20:39" "Day/9:4-10:12" "Day/13:43-15:20" "Day/13:6-16:31"
+/
+StudentName: "µÀÈÄ·¦"
+StudentCode: "1702556"
+GradePoint: 9.096118893665718
+Interest: "ÄòÎ¢" "Ññ¶ºÒ¥" "²õ¶±" "ÄòÎ¢" "¶ØÄ¤²ø" "¶ØÄ¤²ø"
+DepartmentWishes: "±ÅÆ¼·Ş" "Ô§ÒıÖè" "·ÀÖÒ´ğ" "132042/³¿¶À"
+FreeTime: "Day/22:28-24:48" "Day/16:57-17:12" "Day/24:13-26:23"
+/
+StudentName: "Õ²¹ç"
+StudentCode: "1702559"
+GradePoint: 8.111612100735766
+Interest: "ºêÅÊÓ¾"
+DepartmentWishes: "132079/ĞÏ°ó" "132018/·¤Óé" "ÉåĞÎ" "³¨ºâ"
+FreeTime: "Day/13:27-15:9" "Day/22:45-25:57"
+/
+StudentName: "±íÆÜ"
+StudentCode: "1702561"
+GradePoint: 9.466719245045581
+Interest: "²õ¶±" "Æ¸µ¢»¥" "ºİÑİ" "Ê·ÑÑ"
+DepartmentWishes: "132028/µÖÉõ" "È×ËË"
+FreeTime: "Week/Thursday/20:44-22:18"
+/
+StudentName: "ÑÑ¼Ò»¼"
+StudentCode: "1702566"
+GradePoint: 7.958648406721052
+Interest: "ºİÑİ" "°«É¯ÌÉ" "ºñÊÃ" "ÄòÎ¢" "ÄòÎ¢"
+DepartmentWishes: "132033/È×ËË"
+FreeTime: "Week/Sunday/11:51-12:55" "Week/Sunday/14:24-15:41" "Week/Wednesday/11:16-14:14" "Week/Sunday/22:42-24:37"
+/
+StudentName: "Ä­µ¬"
+StudentCode: "1702572"
+GradePoint: 6.86561794713544
+Interest: "ºêÅÊÓ¾" "Æ¸µ¢»¥" "ÄòÎ¢" "ºñÊÃ" "Æ¸µ¢»¥" "ÄòÎ¢"
+DepartmentWishes: "132068/³¨ºâ" "132028/µÖÉõ" "132083/ÉåĞÎ"
+FreeTime: "Day/10:2-12:9"
+/
+StudentName: "Áó°Õ"
+StudentCode: "1702574"
+GradePoint: 6.894894260939569
+Interest: "Ò¸ÈôÃğ"
+DepartmentWishes: "132028/µÖÉõ" "132042/³¿¶À" "132093/ÉÓÓé" "132023/Í£ÄÎÏø"
+FreeTime: "Week/Wednesday/19:54-20:10" "Week/Tuesday/17:38-18:38" "Week/Monday/11:36-14:58"
+/
+StudentName: "ÁßÃØ"
+StudentCode: "1702578"
+GradePoint: 6.1422770989468845
+Interest: "ºñÊÃ" "²õ¶±" "ºñÊÃ" "¶ğÁÒÉú" "ÓÂÖ§"
+DepartmentWishes: "ÈèÖğ" "132028/µÖÉõ" "132023/Í£ÄÎÏø" "132079/ĞÏ°ó"
+FreeTime: "Day/14:31-15:29"
+/
+StudentName: "Ñº¼¯¹¨"
+StudentCode: "1702585"
+GradePoint: 4.236096758820475
+Interest: "²õ¶±" "ÄÊËÈÄë" "²õ¶±" "¼ÍĞ¶Ëß" "ºêÅÊÓ¾" "Æ¸µ¢»¥"
+DepartmentWishes: "µÖÉõ" "³¨ºâ" "132005/Ô§ÒıÖè"
+FreeTime: "Week/Wednesday/14:33-16:27" "Week/Friday/22:5-25:3" "Week/Sunday/11:55-12:1" "Week/Sunday/14:45-16:31"
+/
+StudentName: "º¹ºÈ¹ó"
+StudentCode: "1702591"
+GradePoint: 9.911653287024016
+Interest: "¶ØÄ¤²ø" "ÄÊËÈÄë" "Ê¥¿¨" "Ê¥¿¨" "Ê·ÑÑ" "¶ğÁÒÉú"
+DepartmentWishes: "132042/³¿¶À" "Ñ¿ÍÆ" "132068/³¨ºâ" "ÈèÖğ"
+FreeTime: "Day/23:31-25:48"
+/
+StudentName: "ÑıÉäÆô"
+StudentCode: "1702598"
+GradePoint: 9.53275622331271
+Interest: "²õ¶±" "ÄòÎ¢" "²õ¶±"
+DepartmentWishes: "Í£ÄÎÏø"
+FreeTime: "Day/16:39-17:18"
+/
+StudentName: "ºèÈ¤"
+StudentCode: "1702600"
+GradePoint: 6.451017621760159
+Interest: "ÓÂÖ§" "Ññ¶ºÒ¥" "ºİÑİ" "²õ¶±"
+DepartmentWishes: "µ¬Î¡" "132018/·¤Óé" "132005/Ô§ÒıÖè" "132063/ÈèÖğ"
+FreeTime: "Week/Wednesday/14:44-16:28"
+/
+StudentName: "ÃÜÃí"
+StudentCode: "1702606"
+GradePoint: 8.313484983049772
+Interest: "¶ğÁÒÉú" "ºêÅÊÓ¾" "¹èºÀ³µ" "Ê¥¿¨"
+DepartmentWishes: "132009/Ñ¿ÍÆ" "132042/³¿¶À" "132005/Ô§ÒıÖè" "132060/·ÏÌÈÖŞ"
+FreeTime: "Week/Saturday/10:7-13:8" "Week/Saturday/14:34-16:20" "Week/Wednesday/22:1-23:5"
+/
+StudentName: "¾µ³î"
+StudentCode: "1702610"
+GradePoint: 5.234220164410019
+Interest: "ºÙ¹ËÔÚ" "¶ØÄ¤²ø" "¹èºÀ³µ" "²õ¶±" "ºêÅÊÓ¾"
+DepartmentWishes: "132018/·¤Óé" "132093/ÉÓÓé" "132086/µáÊ¸²ü"
+FreeTime: "Day/15:19-16:23" "Day/12:24-14:45" "Day/20:58-22:58"
+/
+StudentName: "±Ö¿®"
+StudentCode: "1702612"
+GradePoint: 6.534597375334328
+Interest: "Ò¸ÈôÃğ"
+DepartmentWishes: "Í£ÄÎÏø" "132083/ÉåĞÎ" "µ¬Î¡" "132018/·¤Óé"
+FreeTime: "Day/11:37-12:59"
+/
+StudentName: "³ÌÑë"
+StudentCode: "1702614"
+GradePoint: 4.844603267272915
+Interest: "²õ¶±"
+DepartmentWishes: "ÉÓÓé"
+FreeTime: "Week/Sunday/10:22-11:59" "Week/Sunday/11:29-14:50" "Week/Friday/14:24-16:28" "Week/Thursday/13:15-16:28"
+/
+StudentName: "±ÄÉ¦"
+StudentCode: "1702617"
+GradePoint: 9.812762350634966
+Interest: "ÄÊËÈÄë" "¹èºÀ³µ" "ºñÊÃ"
+DepartmentWishes: "132083/ÉåĞÎ"
+FreeTime: "Day/15:9-18:45" "Day/12:7-13:45" "Day/15:55-16:47"
+/
+StudentName: "¾èÅòÇå"
+StudentCode: "1702622"
+GradePoint: 6.90354221176972
+Interest: "¶ğÁÒÉú"
+DepartmentWishes: "³¿¶À" "132023/Í£ÄÎÏø" "Ô§ÒıÖè"
+FreeTime: "Day/18:54-20:42" "Day/10:20-12:17" "Day/10:43-12:21"
+/
+StudentName: "Ê»ÎíÒ³"
+StudentCode: "1702625"
+GradePoint: 8.821206828923323
+Interest: "¶ØÄ¤²ø" "Ê¥¿¨" "Ò¸ÈôÃğ" "Ê·ÑÑ" "¼ÍĞ¶Ëß" "Æ»·ûÓÄ"
+DepartmentWishes: "·¤Óé" "132033/È×ËË"
+FreeTime: "Day/9:56-11:25" "Day/12:52-15:48"
+/
+StudentName: "³ªÊÅ"
+StudentCode: "1702628"
+GradePoint: 4.948720287935041
+Interest: "Ò¸ÈôÃğ" "Ê¥¿¨" "²õ¶±" "ÄÊËÈÄë" "¶ğÁÒÉú"
+DepartmentWishes: "132068/³¨ºâ" "132033/È×ËË" "³¿¶À"
+FreeTime: "Week/Thursday/21:56-24:26"
+/
+StudentName: "ÓíÕùº¾"
+StudentCode: "1702633"
+GradePoint: 8.035807289771073
+Interest: "Æ¸µ¢»¥" "Õ·°´" "Ê·ÑÑ" "Ò¸ÈôÃğ" "ÓÂÖ§"
+DepartmentWishes: "ÉåĞÎ" "132033/È×ËË" "µÖÉõ"
+FreeTime: "Day/10:32-12:59" "Day/15:2-16:35" "Day/16:40-19:9" "Day/16:54-18:1"
+/
+StudentName: "ÄõÉ¬Ô¿"
+StudentCode: "1702637"
+GradePoint: 4.41637597464828
+Interest: "²õ¶±"
+DepartmentWishes: "ÈèÖğ" "È×ËË" "³¨ºâ"
+FreeTime: "Day/18:56-20:37" "Day/16:10-17:20"
+/
+StudentName: "ÔÏÔÎ"
+StudentCode: "1702639"
+GradePoint: 4.586826466912341
+Interest: "ºêÅÊÓ¾"
+DepartmentWishes: "132028/µÖÉõ" "¾ç°îÏÍ" "132068/³¨ºâ"
+FreeTime: "Day/14:59-15:44" "Day/20:42-23:10" "Day/9:49-11:30"
+/
+StudentName: "ÔÒÉÇ"
+StudentCode: "1702645"
+GradePoint: 4.721465322039089
+Interest: "ÄòÎ¢" "Ê·ÑÑ" "ÄòÎ¢" "ÓÂÖ§" "ÄòÎ¢" "ºİÑİ"
+DepartmentWishes: "132023/Í£ÄÎÏø"
+FreeTime: "Week/Friday/19:28-22:58" "Week/Saturday/11:8-13:53"
+/
+StudentName: "²õ¿¨¾¼"
+StudentCode: "1702652"
+GradePoint: 8.808175854125533
+Interest: "Ò¸ÈôÃğ" "ÄòÎ¢" "Ññ¶ºÒ¥" "Ê·ÑÑ" "¶ğÁÒÉú" "¶ØÄ¤²ø"
+DepartmentWishes: "132091/ÄòÈ÷Æè"
+FreeTime: "Week/Thursday/24:23-25:52" "Week/Monday/9:12-10:10" "Week/Monday/17:26-19:28" "Week/Friday/10:57-11:36"
+/
+StudentName: "È¸¶¢¹Ô"
+StudentCode: "1702659"
+GradePoint: 4.218721764591789
+Interest: "ÄòÎ¢" "ÓÂÖ§"
+DepartmentWishes: "132079/ĞÏ°ó"
+FreeTime: "Week/Saturday/20:5-22:26" "Week/Saturday/14:54-17:26" "Week/Sunday/16:32-18:12" "Week/Sunday/23:26-24:11"
+/
+StudentName: "ÏÍÖ¬"
+StudentCode: "1702661"
+GradePoint: 6.136487769150211
+Interest: "Õ·°´" "ºêÅÊÓ¾" "Ññ¶ºÒ¥" "²õ¶±"
+DepartmentWishes: "132063/ÈèÖğ" "Ñ¿ÍÆ"
+FreeTime: "Day/16:26-19:17"
+/
+StudentName: "½ÕÒì"
+StudentCode: "1702663"
+GradePoint: 7.429104854866427
+Interest: "¼ÍĞ¶Ëß" "°«É¯ÌÉ"
+DepartmentWishes: "132093/ÉÓÓé" "±ÅÆ¼·Ş" "Í£ÄÎÏø"
+FreeTime: "Week/Monday/24:28-26:48" "Week/Friday/13:22-16:9"
+/
+StudentName: "±¤¸¬"
+StudentCode: "1702667"
+GradePoint: 5.508000210171895
+Interest: "°«É¯ÌÉ" "¼ÍĞ¶Ëß" "ºÙ¹ËÔÚ" "Ò¸ÈôÃğ"
+DepartmentWishes: "µÖÉõ" "132009/Ñ¿ÍÆ" "·ÀÖÒ´ğ"
+FreeTime: "Day/14:53-17:53" "Day/17:7-18:45" "Day/20:44-22:19"
+/
+StudentName: "Ì×º©"
+StudentCode: "1702670"
+GradePoint: 8.35360265167941
+Interest: "Ò¸ÈôÃğ" "ÄÊËÈÄë" "¹èºÀ³µ" "ºñÊÃ" "Ê¥¿¨" "Õ·°´"
+DepartmentWishes: "ÉÓÓé" "µ¬Î¡" "Ô§ÒıÖè"
+FreeTime: "Day/15:4-18:15" "Day/11:19-12:11" "Day/17:29-18:6"
+/
+StudentName: "¶×Ã÷¼ó"
+StudentCode: "1702676"
+GradePoint: 6.1538058116006775
+Interest: "Æ»·ûÓÄ"
+DepartmentWishes: "132042/³¿¶À" "·¤Óé"
+FreeTime: "Week/Monday/21:19-23:0"
+/
+StudentName: "ÅÉ±É¶ë"
+StudentCode: "1702679"
+GradePoint: 4.215011703864638
+Interest: "Æ¸µ¢»¥" "¹èºÀ³µ" "Ê¥¿¨" "Ò¸ÈôÃğ"
+DepartmentWishes: "132009/Ñ¿ÍÆ" "132091/ÄòÈ÷Æè" "132060/·ÏÌÈÖŞ"
+FreeTime: "Week/Tuesday/20:34-22:40" "Week/Thursday/23:29-24:19" "Week/Wednesday/12:8-15:30"
+/
+StudentName: "ÇÑÈÊĞ·"
+StudentCode: "1702685"
+GradePoint: 9.88431906218533
+Interest: "°«É¯ÌÉ" "ÄÊËÈÄë" "ÓÂÖ§" "ÄòÎ¢" "Ê·ÑÑ" "Õ·°´"
+DepartmentWishes: "ĞÏ°ó"
+FreeTime: "Week/Friday/18:30-21:55" "Week/Monday/22:3-25:14"
+/
+StudentName: "ÏóË³¼é"
+StudentCode: "1702689"
+GradePoint: 9.19641762926938
+Interest: "Ê·ÑÑ" "ÓÂÖ§" "¼ÍĞ¶Ëß"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "132091/ÄòÈ÷Æè"
+FreeTime: "Week/Monday/15:33-16:48" "Week/Wednesday/19:48-21:5" "Week/Sunday/9:1-10:17"
+/
+StudentName: "ÓùÒÀÔÇ"
+StudentCode: "1702695"
+GradePoint: 8.90889516121814
+Interest: "°«É¯ÌÉ" "Ò¸ÈôÃğ" "Æ»·ûÓÄ" "ºêÅÊÓ¾"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "132068/³¨ºâ"
+FreeTime: "Week/Sunday/12:51-15:52" "Week/Monday/23:29-24:33" "Week/Tuesday/15:57-17:8"
+/
+StudentName: "´õ·ËÒÆ"
+StudentCode: "1702701"
+GradePoint: 7.690956084250361
+Interest: "ºñÊÃ" "ÄòÎ¢" "¹èºÀ³µ" "¹èºÀ³µ"
+DepartmentWishes: "ÉÓÓé" "µÖÉõ" "132063/ÈèÖğ"
+FreeTime: "Day/20:19-23:22" "Day/24:36-26:6"
+/
+StudentName: "¿¯µÚ¶°"
+StudentCode: "1702706"
+GradePoint: 6.754898818473262
+Interest: "ºİÑİ" "¶ğÁÒÉú" "¼ÍĞ¶Ëß" "ÄòÎ¢"
+DepartmentWishes: "·ÏÌÈÖŞ" "132047/¾ç°îÏÍ"
+FreeTime: "Week/Sunday/23:34-26:39"
+/
+StudentName: "Å´Óö¼µ"
+StudentCode: "1702712"
+GradePoint: 4.327214651546445
+Interest: "ÄÊËÈÄë" "¹èºÀ³µ" "ÄòÎ¢" "Ê·ÑÑ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132083/ÉåĞÎ"
+FreeTime: "Week/Monday/20:43-23:58"
+/
+StudentName: "²¯Í¿Òï"
+StudentCode: "1702717"
+GradePoint: 9.566010373841152
+Interest: "²õ¶±" "Ê¥¿¨"
+DepartmentWishes: "132042/³¿¶À" "132091/ÄòÈ÷Æè" "132060/·ÏÌÈÖŞ"
+FreeTime: "Day/22:45-25:19"
+/
+StudentName: "²ÈËË"
+StudentCode: "1702719"
+GradePoint: 5.489748847858225
+Interest: "°«É¯ÌÉ" "Ññ¶ºÒ¥" "ºÙ¹ËÔÚ" "ÄòÎ¢" "¶ØÄ¤²ø" "Õ·°´"
+DepartmentWishes: "³¿¶À" "ÉÓÓé"
+FreeTime: "Week/Sunday/14:51-16:6" "Week/Sunday/10:10-12:7"
+/
+StudentName: "²Ä½à"
+StudentCode: "1702724"
+GradePoint: 5.706727695199688
+Interest: "²õ¶±" "ÄòÎ¢" "ÓÂÖ§"
+DepartmentWishes: "132047/¾ç°îÏÍ"
+FreeTime: "Day/12:57-13:16"
+/
+StudentName: "¿¿»·ºÛ"
+StudentCode: "1702729"
+GradePoint: 9.12996054901656
+Interest: "ÄòÎ¢"
+DepartmentWishes: "132033/È×ËË"
+FreeTime: "Day/9:22-10:12"
+/
+StudentName: "»···"
+StudentCode: "1702735"
+GradePoint: 5.0785123674173045
+Interest: "Ê·ÑÑ"
+DepartmentWishes: "132093/ÉÓÓé"
+FreeTime: "Day/16:44-18:56"
+/
+StudentName: "¹×Öà"
+StudentCode: "1702739"
+GradePoint: 5.854814716510351
+Interest: "Ê¥¿¨" "Õ·°´" "¶ğÁÒÉú" "ºêÅÊÓ¾"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "132083/ÉåĞÎ"
+FreeTime: "Day/23:52-24:45" "Day/24:29-25:34"
+/
+StudentName: "ÁıÃ«"
+StudentCode: "1702741"
+GradePoint: 8.016803333312044
+Interest: "²õ¶±"
+DepartmentWishes: "132074/¼ùÈ³´ç" "µ¬Î¡"
+FreeTime: "Day/15:40-17:10" "Day/22:25-23:51" "Day/14:25-15:6"
+/
+StudentName: "ºı¾ä±Ç"
+StudentCode: "1702748"
+GradePoint: 5.660086233684014
+Interest: "²õ¶±" "Ê¥¿¨"
+DepartmentWishes: "ÉÓÓé"
+FreeTime: "Day/20:19-21:59"
+/
+StudentName: "ÁÔµÁÊÉ"
+StudentCode: "1702751"
+GradePoint: 6.7860259640716585
+Interest: "ÄòÎ¢" "°«É¯ÌÉ"
+DepartmentWishes: "132060/·ÏÌÈÖŞ" "132009/Ñ¿ÍÆ"
+FreeTime: "Week/Monday/17:21-18:1" "Week/Saturday/19:22-22:13"
+/
+StudentName: "ÒêÎÒ"
+StudentCode: "1702756"
+GradePoint: 5.388025706053169
+Interest: "¼ÍĞ¶Ëß" "°«É¯ÌÉ" "Æ¸µ¢»¥"
+DepartmentWishes: "132033/È×ËË" "ÈèÖğ" "±ÅÆ¼·Ş"
+FreeTime: "Day/11:46-14:16" "Day/24:59-26:45" "Day/12:44-15:24" "Day/9:0-12:7"
+/
+StudentName: "Ì²Î£ÌÊ"
+StudentCode: "1702760"
+GradePoint: 6.020524956065571
+Interest: "ºİÑİ" "¹èºÀ³µ" "Ññ¶ºÒ¥" "ÄòÎ¢" "ÄòÎ¢" "Æ»·ûÓÄ"
+DepartmentWishes: "132053/±ÅÆ¼·Ş" "ÉÓÓé"
+FreeTime: "Week/Tuesday/10:24-11:44" "Week/Wednesday/24:28-25:20"
+/
+StudentName: "Îù°£"
+StudentCode: "1702762"
+GradePoint: 9.460042564741325
+Interest: "ÓÂÖ§" "Ò¸ÈôÃğ" "ºİÑİ" "Ê¥¿¨"
+DepartmentWishes: "µáÊ¸²ü" "ĞÏ°ó" "132033/È×ËË"
+FreeTime: "Day/19:20-21:26" "Day/11:58-12:18" "Day/16:18-17:20" "Day/21:36-24:24"
+/
+StudentName: "ÅÂµıÒÛ"
+StudentCode: "1702769"
+GradePoint: 6.715513070744473
+Interest: "ÓÂÖ§" "Ò¸ÈôÃğ" "ºñÊÃ" "ºñÊÃ" "¶ØÄ¤²ø"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "132086/µáÊ¸²ü"
+FreeTime: "Week/Sunday/11:29-13:32" "Week/Friday/13:22-16:42" "Week/Sunday/20:35-21:59" "Week/Tuesday/18:30-21:47"
+/
+StudentName: "Ê£¼­"
+StudentCode: "1702771"
+GradePoint: 5.875241357119846
+Interest: "Ê¥¿¨" "Æ»·ûÓÄ" "ºêÅÊÓ¾"
+DepartmentWishes: "µÖÉõ" "ÉÓÓé" "±ÅÆ¼·Ş" "132042/³¿¶À"
+FreeTime: "Week/Sunday/9:11-12:19"
+/
+StudentName: "¿µ¾úº¦"
+StudentCode: "1702774"
+GradePoint: 9.52494345580595
+Interest: "ºñÊÃ" "Æ»·ûÓÄ" "Ê¥¿¨" "¶ØÄ¤²ø" "ÄòÎ¢"
+DepartmentWishes: "132042/³¿¶À"
+FreeTime: "Day/9:48-10:23"
+/
+StudentName: "É¢Éø¼ì"
+StudentCode: "1702779"
+GradePoint: 7.177208047972614
+Interest: "Ò¸ÈôÃğ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132005/Ô§ÒıÖè"
+FreeTime: "Week/Sunday/17:48-18:35" "Week/Sunday/19:17-21:38" "Week/Monday/13:9-14:52"
+/
+StudentName: "ËÂÁÄÎ¢"
+StudentCode: "1702783"
+GradePoint: 6.524532012961506
+Interest: "Æ»·ûÓÄ" "Ññ¶ºÒ¥"
+DepartmentWishes: "¼ùÈ³´ç"
+FreeTime: "Week/Thursday/22:19-24:44" "Week/Monday/13:56-16:57"
+/
+StudentName: "ÍñÉöÉ³"
+StudentCode: "1702788"
+GradePoint: 4.83664382801009
+Interest: "Ê¥¿¨" "²õ¶±" "ºÙ¹ËÔÚ" "Ê·ÑÑ" "Ê¥¿¨"
+DepartmentWishes: "¾ç°îÏÍ" "132093/ÉÓÓé" "µáÊ¸²ü"
+FreeTime: "Day/14:18-15:4"
+/
+StudentName: "ÂÒºÓ"
+StudentCode: "1702793"
+GradePoint: 7.331102517125835
+Interest: "Ê·ÑÑ"
+DepartmentWishes: "132018/·¤Óé" "µáÊ¸²ü"
+FreeTime: "Week/Saturday/21:33-24:41"
+/
+StudentName: "Áı½í"
+StudentCode: "1702798"
+GradePoint: 8.873863867282816
+Interest: "ºñÊÃ"
+DepartmentWishes: "132042/³¿¶À" "132009/Ñ¿ÍÆ"
+FreeTime: "Day/21:11-24:0" "Day/13:53-16:33"
+/
+StudentName: "ĞÄÔï"
+StudentCode: "1702801"
+GradePoint: 5.703639743711389
+Interest: "Ò¸ÈôÃğ"
+DepartmentWishes: "132093/ÉÓÓé" "132053/±ÅÆ¼·Ş" "132060/·ÏÌÈÖŞ" "132005/Ô§ÒıÖè"
+FreeTime: "Day/13:50-14:40" "Day/23:29-26:8" "Day/20:57-23:44"
+/
+StudentName: "ÔûºÎÇû"
+StudentCode: "1702805"
+GradePoint: 4.752617662484051
+Interest: "ºİÑİ" "ºñÊÃ"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "132012/µ¬Î¡" "132047/¾ç°îÏÍ"
+FreeTime: "Day/24:51-27:43" "Day/18:44-19:26" "Day/14:55-17:22"
+/
+StudentName: "ÊÃÔÖÏÓ"
+StudentCode: "1702809"
+GradePoint: 6.830511160581382
+Interest: "°«É¯ÌÉ" "Æ»·ûÓÄ"
+DepartmentWishes: "132033/È×ËË"
+FreeTime: "Day/19:8-22:23" "Day/21:13-24:41" "Day/18:32-19:53" "Day/15:55-16:54"
+/
+StudentName: "ËËºüµÇ"
+StudentCode: "1702815"
+GradePoint: 6.180655606034168
+Interest: "Ò¸ÈôÃğ" "Æ¸µ¢»¥" "ºÙ¹ËÔÚ" "Ê¥¿¨"
+DepartmentWishes: "132033/È×ËË"
+FreeTime: "Week/Friday/19:27-20:58" "Week/Friday/24:3-26:21" "Week/Wednesday/18:42-19:23"
+/
+StudentName: "ÁĞ»í"
+StudentCode: "1702821"
+GradePoint: 8.663071164308729
+Interest: "ºñÊÃ"
+DepartmentWishes: "³¨ºâ" "È×ËË" "132009/Ñ¿ÍÆ"
+FreeTime: "Day/21:57-23:30" "Day/20:47-22:18"
+/
+StudentName: "²¨Õö"
+StudentCode: "1702825"
+GradePoint: 6.261511521435741
+Interest: "ÓÂÖ§" "°«É¯ÌÉ" "Ê¥¿¨" "Ê¥¿¨"
+DepartmentWishes: "·¤Óé"
+FreeTime: "Day/15:48-17:46" "Day/22:25-23:34"
+/
+StudentName: "ÖÜµ³"
+StudentCode: "1702829"
+GradePoint: 7.151102809554847
+Interest: "Ññ¶ºÒ¥"
+DepartmentWishes: "132091/ÄòÈ÷Æè"
+FreeTime: "Week/Saturday/21:47-23:20"
+/
+StudentName: "ÔŞ¸Ê"
+StudentCode: "1702832"
+GradePoint: 7.360523562480963
+Interest: "¶ØÄ¤²ø" "Ê·ÑÑ" "ºİÑİ" "ÄÊËÈÄë" "Ò¸ÈôÃğ" "Ò¸ÈôÃğ"
+DepartmentWishes: "³¿¶À" "Ô§ÒıÖè" "132018/·¤Óé" "132068/³¨ºâ"
+FreeTime: "Day/18:20-20:27" "Day/24:47-26:43"
+/
+StudentName: "ÀëÖ­"
+StudentCode: "1702838"
+GradePoint: 6.638747342145993
+Interest: "ºñÊÃ" "Ê¥¿¨" "ºÙ¹ËÔÚ" "²õ¶±" "ÄÊËÈÄë" "ºêÅÊÓ¾"
+DepartmentWishes: "132074/¼ùÈ³´ç" "·ÀÖÒ´ğ" "132023/Í£ÄÎÏø" "ÈèÖğ"
+FreeTime: "Day/13:22-16:54" "Day/15:25-16:49" "Day/18:6-21:27" "Day/23:35-24:39"
+/
+StudentName: "ÏéÃ¹"
+StudentCode: "1702843"
+GradePoint: 7.180523085634359
+Interest: "¶ğÁÒÉú" "¼ÍĞ¶Ëß" "°«É¯ÌÉ"
+DepartmentWishes: "132083/ÉåĞÎ"
+FreeTime: "Day/14:27-16:35" "Day/14:37-16:36" "Day/20:0-22:42"
+/
+StudentName: "¿ÚÅã"
+StudentCode: "1702847"
+GradePoint: 9.724436911889779
+Interest: "ÄÊËÈÄë" "Ê¥¿¨" "Õ·°´" "Ññ¶ºÒ¥" "¶ğÁÒÉú"
+DepartmentWishes: "ÉåĞÎ" "132005/Ô§ÒıÖè" "±ÅÆ¼·Ş"
+FreeTime: "Day/23:9-26:38"
+/
+StudentName: "ÈêÂÇ"
+StudentCode: "1702853"
+GradePoint: 9.648591399413215
+Interest: "ºİÑİ" "Ê¥¿¨" "Ññ¶ºÒ¥" "Ò¸ÈôÃğ" "°«É¯ÌÉ"
+DepartmentWishes: "ĞÏ°ó"
+FreeTime: "Day/10:17-12:54"
+/
+StudentName: "¹ä»ÊÀµ"
+StudentCode: "1702860"
+GradePoint: 5.770389545715201
+Interest: "ºÙ¹ËÔÚ"
+DepartmentWishes: "132012/µ¬Î¡"
+FreeTime: "Day/22:49-25:25" "Day/14:30-16:58" "Day/9:35-11:44" "Day/16:55-19:34"
+/
+StudentName: "±¯ºÉÑø"
+StudentCode: "1702863"
+GradePoint: 5.371648214477708
+Interest: "ºñÊÃ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132023/Í£ÄÎÏø"
+FreeTime: "Day/20:38-22:32" "Day/9:52-12:51" "Day/18:37-20:33"
+/
+StudentName: "Æí¼®´´"
+StudentCode: "1702868"
+GradePoint: 8.858952465278264
+Interest: "ºñÊÃ" "²õ¶±" "ºİÑİ" "ÄÊËÈÄë" "²õ¶±" "Æ»·ûÓÄ"
+DepartmentWishes: "132018/·¤Óé" "Ô§ÒıÖè" "³¿¶À" "132028/µÖÉõ"
+FreeTime: "Day/16:2-18:40"
+/
+StudentName: "Â´·ô"
+StudentCode: "1702873"
+GradePoint: 4.74136045133635
+Interest: "ºİÑİ" "Æ¸µ¢»¥"
+DepartmentWishes: "132018/·¤Óé" "132009/Ñ¿ÍÆ"
+FreeTime: "Day/17:53-18:34"
+/
+StudentName: "¿¢¿­"
+StudentCode: "1702875"
+GradePoint: 7.52958260099874
+Interest: "Ê¥¿¨" "°«É¯ÌÉ" "°«É¯ÌÉ" "ºêÅÊÓ¾" "¶ØÄ¤²ø"
+DepartmentWishes: "132068/³¨ºâ" "ÈèÖğ" "132053/±ÅÆ¼·Ş"
+FreeTime: "Day/17:18-19:9" "Day/16:24-18:14" "Day/23:37-24:44"
+/
+StudentName: "¼µÏÃ³×"
+StudentCode: "1702878"
+GradePoint: 8.737439055146723
+Interest: "ÓÂÖ§"
+DepartmentWishes: "132028/µÖÉõ"
+FreeTime: "Day/20:36-22:58" "Day/13:2-14:27"
+/
+StudentName: "³ãÀÂ"
+StudentCode: "1702884"
+GradePoint: 6.883875127384691
+Interest: "°«É¯ÌÉ" "Ò¸ÈôÃğ" "Ê·ÑÑ" "¶ğÁÒÉú"
+DepartmentWishes: "132083/ÉåĞÎ" "132036/·ÀÖÒ´ğ" "132023/Í£ÄÎÏø"
+FreeTime: "Day/17:59-20:46"
+/
+StudentName: "ÒË¸²"
+StudentCode: "1702887"
+GradePoint: 5.919712258373989
+Interest: "¶ğÁÒÉú" "Æ¸µ¢»¥" "Ò¸ÈôÃğ" "ÓÂÖ§" "Ê·ÑÑ" "ÓÂÖ§"
+DepartmentWishes: "132086/µáÊ¸²ü" "132083/ÉåĞÎ"
+FreeTime: "Day/12:59-14:23"
+/
+StudentName: "ÉÈÌ£Ôá"
+StudentCode: "1702891"
+GradePoint: 8.337767877960564
+Interest: "Æ¸µ¢»¥" "Æ»·ûÓÄ" "ÄÊËÈÄë" "¶ØÄ¤²ø" "Ê·ÑÑ" "¶ØÄ¤²ø"
+DepartmentWishes: "132063/ÈèÖğ"
+FreeTime: "Day/11:56-14:47" "Day/9:19-11:18"
+/
+StudentName: "²İÈ³"
+StudentCode: "1702895"
+GradePoint: 9.306958094897528
+Interest: "ºİÑİ"
+DepartmentWishes: "132012/µ¬Î¡" "¼ùÈ³´ç"
+FreeTime: "Day/18:19-20:0" "Day/22:11-23:22" "Day/23:2-26:13" "Day/19:20-21:59"
+/
+StudentName: "ÒÄÖ¡"
+StudentCode: "1702898"
+GradePoint: 9.081962389732697
+Interest: "¼ÍĞ¶Ëß" "¶ğÁÒÉú"
+DepartmentWishes: "132033/È×ËË"
+FreeTime: "Day/13:31-16:9" "Day/9:31-10:8" "Day/21:18-22:49" "Day/21:3-22:30"
+/
+StudentName: "É×ÁÌÒÑ"
+StudentCode: "1702903"
+GradePoint: 8.458255297309494
+Interest: "Õ·°´"
+DepartmentWishes: "µáÊ¸²ü"
+FreeTime: "Day/10:6-13:34"
+/
+StudentName: "¿¸²¶¿ª"
+StudentCode: "1702906"
+GradePoint: 4.3772668754357245
+Interest: "Ê·ÑÑ" "¹èºÀ³µ" "ÄÊËÈÄë" "ºñÊÃ" "ºñÊÃ" "¶ğÁÒÉú"
+DepartmentWishes: "132063/ÈèÖğ" "132023/Í£ÄÎÏø"
+FreeTime: "Week/Sunday/20:29-23:50" "Week/Saturday/11:16-13:49" "Week/Friday/14:22-17:38"
+/
+StudentName: "Ä¬°©"
+StudentCode: "1702909"
+GradePoint: 5.638080266905783
+Interest: "¹èºÀ³µ"
+DepartmentWishes: "132074/¼ùÈ³´ç" "132009/Ñ¿ÍÆ" "±ÅÆ¼·Ş" "·¤Óé"
+FreeTime: "Week/Wednesday/21:44-22:33" "Week/Sunday/20:32-23:20"
+/
+StudentName: "Ò´´»¸°"
+StudentCode: "1702916"
+GradePoint: 6.760046800920572
+Interest: "Ê¥¿¨" "¶ğÁÒÉú" "¹èºÀ³µ"
+DepartmentWishes: "132063/ÈèÖğ" "ĞÏ°ó"
+FreeTime: "Day/23:6-26:15" "Day/9:10-10:40" "Day/16:36-19:33"
+/
+StudentName: "¾É¹ÌÉ¿"
+StudentCode: "1702921"
+GradePoint: 7.683844032673954
+Interest: "Æ»·ûÓÄ" "Ê¥¿¨" "ºñÊÃ"
+DepartmentWishes: "ĞÏ°ó" "132091/ÄòÈ÷Æè" "132060/·ÏÌÈÖŞ"
+FreeTime: "Week/Tuesday/14:34-16:54"
+/
+StudentName: "ÃÖÕ­"
+StudentCode: "1702923"
+GradePoint: 4.2170866146449315
+Interest: "Ê¥¿¨" "²õ¶±" "ºêÅÊÓ¾" "ÄòÎ¢" "Ê·ÑÑ"
+DepartmentWishes: "132093/ÉÓÓé" "132083/ÉåĞÎ"
+FreeTime: "Day/18:13-20:19" "Day/19:51-22:43" "Day/15:20-18:10" "Day/18:55-21:48"
+/
+StudentName: "ÖÆÓæ"
+StudentCode: "1702929"
+GradePoint: 5.483485117448806
+Interest: "Ê¥¿¨" "ÓÂÖ§"
+DepartmentWishes: "132086/µáÊ¸²ü" "ĞÏ°ó" "132018/·¤Óé"
+FreeTime: "Week/Friday/13:46-14:22"
+/
+StudentName: "ÒÅÖì»Ã"
+StudentCode: "1702932"
+GradePoint: 8.903421789787355
+Interest: "Æ¸µ¢»¥"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "¼ùÈ³´ç"
+FreeTime: "Day/18:42-21:53" "Day/18:57-20:31" "Day/16:48-17:29"
+/
+StudentName: "Ò¢Ğ²ËÑ"
+StudentCode: "1702936"
+GradePoint: 5.1366387339351665
+Interest: "¶ØÄ¤²ø" "ÄÊËÈÄë"
+DepartmentWishes: "132012/µ¬Î¡" "132083/ÉåĞÎ" "132018/·¤Óé" "±ÅÆ¼·Ş"
+FreeTime: "Week/Sunday/15:27-17:5" "Week/Saturday/12:4-13:12" "Week/Monday/17:7-18:36"
+/
+StudentName: "¿éÄÅ"
+StudentCode: "1702942"
+GradePoint: 7.725972418282065
+Interest: "¹èºÀ³µ" "ºÙ¹ËÔÚ" "¼ÍĞ¶Ëß" "ÓÂÖ§"
+DepartmentWishes: "ÉÓÓé" "Ñ¿ÍÆ" "·¤Óé" "µÖÉõ"
+FreeTime: "Day/15:38-16:15" "Day/11:56-13:2" "Day/21:44-22:11"
+/
+StudentName: "¼â¿ª"
+StudentCode: "1702946"
+GradePoint: 5.273957590166212
+Interest: "¶ØÄ¤²ø" "ºêÅÊÓ¾" "ÓÂÖ§"
+DepartmentWishes: "¾ç°îÏÍ"
+FreeTime: "Week/Wednesday/15:36-16:53"
+/
+StudentName: "ÈåÍ¤ÅÖ"
+StudentCode: "1702949"
+GradePoint: 4.536143371339415
+Interest: "Ò¸ÈôÃğ" "°«É¯ÌÉ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132028/µÖÉõ"
+FreeTime: "Day/22:9-23:34" "Day/13:32-15:16"
+/
+StudentName: "¿ÆºäËĞ"
+StudentCode: "1702953"
+GradePoint: 6.080631973401777
+Interest: "¶ğÁÒÉú" "¶ØÄ¤²ø" "Õ·°´" "Ññ¶ºÒ¥" "¶ğÁÒÉú"
+DepartmentWishes: "132033/È×ËË"
+FreeTime: "Week/Wednesday/12:26-15:52" "Week/Thursday/23:48-24:30" "Week/Monday/17:12-18:20"
+/
+StudentName: "Õî¾óÕ§"
+StudentCode: "1702958"
+GradePoint: 8.634261920994026
+Interest: "ºÙ¹ËÔÚ"
+DepartmentWishes: "·ÀÖÒ´ğ" "µÖÉõ"
+FreeTime: "Day/18:25-19:19" "Day/16:32-18:10"
+/
+StudentName: "³í±Ô"
+StudentCode: "1702962"
+GradePoint: 5.819841323433953
+Interest: "¶ğÁÒÉú" "Ññ¶ºÒ¥" "¹èºÀ³µ" "¼ÍĞ¶Ëß" "ºÙ¹ËÔÚ"
+DepartmentWishes: "·ÀÖÒ´ğ" "132028/µÖÉõ" "132086/µáÊ¸²ü" "ĞÏ°ó"
+FreeTime: "Day/21:43-23:5" "Day/16:36-17:46" "Day/16:12-19:32"
+/
+StudentName: "¶²»ÈÌ«"
+StudentCode: "1702967"
+GradePoint: 5.875756752809094
+Interest: "ÄòÎ¢"
+DepartmentWishes: "132063/ÈèÖğ" "132053/±ÅÆ¼·Ş" "µ¬Î¡"
+FreeTime: "Week/Monday/14:49-16:32" "Week/Sunday/13:19-14:54" "Week/Sunday/17:18-19:54" "Week/Thursday/17:9-19:49"
+/
+StudentName: "Ïê»ù"
+StudentCode: "1702972"
+GradePoint: 6.711184628355193
+Interest: "Ê·ÑÑ" "Ò¸ÈôÃğ" "ÄÊËÈÄë" "ºêÅÊÓ¾"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "132093/ÉÓÓé" "132028/µÖÉõ"
+FreeTime: "Day/13:50-15:30" "Day/12:19-14:42"
+/
+StudentName: "ÍøÔÊ¾È"
+StudentCode: "1702979"
+GradePoint: 5.824485195334015
+Interest: "¶ØÄ¤²ø" "Ê¥¿¨" "ÄÊËÈÄë" "Æ»·ûÓÄ" "Õ·°´" "¶ğÁÒÉú"
+DepartmentWishes: "132068/³¨ºâ"
+FreeTime: "Week/Saturday/24:17-26:3" "Week/Sunday/16:5-19:22" "Week/Friday/9:33-12:46" "Week/Sunday/14:47-17:58"
+/
+StudentName: "ÇÂ´ä"
+StudentCode: "1702982"
+GradePoint: 7.925044140079484
+Interest: "Ê·ÑÑ" "ÓÂÖ§"
+DepartmentWishes: "¾ç°îÏÍ" "È×ËË"
+FreeTime: "Day/13:43-14:42" "Day/22:32-24:12"
+/
+StudentName: "ÉâÀŞÖÇ"
+StudentCode: "1702985"
+GradePoint: 9.78874776611346
+Interest: "¹èºÀ³µ"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "ÉÓÓé"
+FreeTime: "Week/Monday/10:15-11:21" "Week/Thursday/12:45-13:13"
+/
+StudentName: "°íÍı"
+StudentCode: "1702987"
+GradePoint: 6.597901493925908
+Interest: "¹èºÀ³µ" "Æ¸µ¢»¥" "Æ»·ûÓÄ" "Æ»·ûÓÄ" "ºİÑİ" "Ò¸ÈôÃğ"
+DepartmentWishes: "132068/³¨ºâ" "132060/·ÏÌÈÖŞ" "¾ç°îÏÍ" "·¤Óé"
+FreeTime: "Week/Wednesday/22:34-24:57" "Week/Sunday/9:23-10:3"
+/
+StudentName: "ÒêĞÊ"
+StudentCode: "1702989"
+GradePoint: 4.772081717377235
+Interest: "²õ¶±" "ÓÂÖ§" "Æ»·ûÓÄ" "¶ØÄ¤²ø"
+DepartmentWishes: "132018/·¤Óé" "132028/µÖÉõ"
+FreeTime: "Day/9:18-11:20" "Day/22:44-23:26" "Day/14:10-15:10"
+/
+StudentName: "ÀóÀÓËÔ"
+StudentCode: "1702992"
+GradePoint: 7.657859378548357
+Interest: "Ê·ÑÑ" "Ññ¶ºÒ¥" "¶ğÁÒÉú" "¼ÍĞ¶Ëß" "Ò¸ÈôÃğ"
+DepartmentWishes: "ĞÏ°ó"
+FreeTime: "Day/9:11-11:29" "Day/17:1-20:22" "Day/10:55-13:27"
+/
+StudentName: "¸Í½Ü"
+StudentCode: "1702995"
+GradePoint: 4.052163598199437
+Interest: "ÄòÎ¢" "¹èºÀ³µ" "Ê·ÑÑ"
+DepartmentWishes: "132083/ÉåĞÎ"
+FreeTime: "Day/13:39-14:26" "Day/10:51-13:45" "Day/20:4-21:44"
+/
+StudentName: "ÆôÔ¾¾Ó"
+StudentCode: "1702998"
+GradePoint: 9.061231683984811
+Interest: "²õ¶±" "Ññ¶ºÒ¥" "¼ÍĞ¶Ëß"
+DepartmentWishes: "Ñ¿ÍÆ" "132083/ÉåĞÎ" "132047/¾ç°îÏÍ"
+FreeTime: "Day/9:51-11:26"
+/
+StudentName: "¾Ò±¶"
+StudentCode: "1703001"
+GradePoint: 6.704062196951022
+Interest: "²õ¶±" "Ê·ÑÑ" "ºÙ¹ËÔÚ" "Õ·°´" "²õ¶±" "¹èºÀ³µ"
+DepartmentWishes: "ÄòÈ÷Æè"
+FreeTime: "Day/19:55-22:32" "Day/11:44-13:31"
+/
+StudentName: "²ÆÉÜ¹¦"
+StudentCode: "1703007"
+GradePoint: 9.584944902906887
+Interest: "Æ¸µ¢»¥" "ºêÅÊÓ¾"
+DepartmentWishes: "Ñ¿ÍÆ" "ÈèÖğ" "132036/·ÀÖÒ´ğ" "132042/³¿¶À"
+FreeTime: "Week/Saturday/14:35-15:21"
+/
+StudentName: "Ï·ÍöÓë"
+StudentCode: "1703012"
+GradePoint: 6.258624206985474
+Interest: "¹èºÀ³µ" "°«É¯ÌÉ" "Ê¥¿¨" "¶ğÁÒÉú"
+DepartmentWishes: "132053/±ÅÆ¼·Ş"
+FreeTime: "Day/19:40-20:13" "Day/17:1-20:55" "Day/21:35-24:23"
+/
+StudentName: "Æâ»æÎ©"
+StudentCode: "1703015"
+GradePoint: 5.608126569695516
+Interest: "ÓÂÖ§" "²õ¶±" "ºñÊÃ"
+DepartmentWishes: "¼ùÈ³´ç" "·ÏÌÈÖŞ" "132033/È×ËË" "132018/·¤Óé"
+FreeTime: "Day/11:34-12:4" "Day/15:11-16:40"
+/
+StudentName: "ÄÈ¶È"
+StudentCode: "1703017"
+GradePoint: 8.092329860747412
+Interest: "Æ¸µ¢»¥" "¶ØÄ¤²ø" "Æ»·ûÓÄ"
+DepartmentWishes: "132023/Í£ÄÎÏø" "ÄòÈ÷Æè"
+FreeTime: "Week/Thursday/13:20-14:42" "Week/Sunday/12:7-15:56" "Week/Sunday/18:47-21:9" "Week/Wednesday/12:47-15:50"
+/
+StudentName: "»èÅÛ°µ"
+StudentCode: "1703020"
+GradePoint: 9.601857518290519
+Interest: "Ññ¶ºÒ¥" "°«É¯ÌÉ" "Õ·°´" "ºİÑİ"
+DepartmentWishes: "132009/Ñ¿ÍÆ" "¾ç°îÏÍ" "132091/ÄòÈ÷Æè"
+FreeTime: "Week/Monday/12:26-14:25"
+/
+StudentName: "Ï£Ç¶"
+StudentCode: "1703026"
+GradePoint: 8.673533272161535
+Interest: "ºêÅÊÓ¾" "ºÙ¹ËÔÚ" "ºêÅÊÓ¾" "Ê¥¿¨"
+DepartmentWishes: "³¿¶À" "132086/µáÊ¸²ü"
+FreeTime: "Day/23:52-26:8" "Day/20:49-23:18" "Day/14:32-15:47"
+/
+StudentName: "Æ­Ã´¾Ë"
+StudentCode: "1703033"
+GradePoint: 5.948642247596004
+Interest: "Ò¸ÈôÃğ" "Ê·ÑÑ" "ÄÊËÈÄë"
+DepartmentWishes: "¼ùÈ³´ç"
+FreeTime: "Day/17:42-20:10" "Day/24:39-25:23" "Day/12:36-15:4" "Day/17:41-18:19"
+/
+StudentName: "¼ÛÔëÍá"
+StudentCode: "1703036"
+GradePoint: 6.312873894003267
+Interest: "ºÙ¹ËÔÚ" "Æ¸µ¢»¥"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "132005/Ô§ÒıÖè"
+FreeTime: "Week/Tuesday/19:56-22:31" "Week/Wednesday/19:20-22:21" "Week/Monday/13:15-16:42"
+/
+StudentName: "¹åÌ¹"
+StudentCode: "1703038"
+GradePoint: 7.799228987144211
+Interest: "¶ØÄ¤²ø" "ºİÑİ" "Õ·°´" "ÄÊËÈÄë" "Ò¸ÈôÃğ" "¶ğÁÒÉú"
+DepartmentWishes: "132063/ÈèÖğ" "¼ùÈ³´ç" "132047/¾ç°îÏÍ" "132033/È×ËË"
+FreeTime: "Week/Sunday/9:44-10:11" "Week/Wednesday/23:4-26:38"
+/
+StudentName: "Ä§ÈíÔ³"
+StudentCode: "1703041"
+GradePoint: 4.241297183517725
+Interest: "ÄòÎ¢" "ÄòÎ¢" "¹èºÀ³µ" "¶ğÁÒÉú"
+DepartmentWishes: "132068/³¨ºâ" "Í£ÄÎÏø" "132018/·¤Óé"
+FreeTime: "Week/Tuesday/19:14-20:2" "Week/Saturday/21:36-24:39" "Week/Saturday/24:4-26:4"
+/
+StudentName: "ÄÙÌ§"
+StudentCode: "1703044"
+GradePoint: 6.97610485263992
+Interest: "ºİÑİ" "Õ·°´" "ÄòÎ¢" "Æ¸µ¢»¥" "ÄÊËÈÄë" "ÄòÎ¢"
+DepartmentWishes: "132028/µÖÉõ"
+FreeTime: "Day/14:2-17:50" "Day/23:54-24:58" "Day/15:28-18:30"
+/
+StudentName: "Ê¯ÑøÅà"
+StudentCode: "1703047"
+GradePoint: 7.154675830029298
+Interest: "¶ØÄ¤²ø" "ÄòÎ¢"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "132005/Ô§ÒıÖè" "132079/ĞÏ°ó"
+FreeTime: "Day/12:49-15:20" "Day/13:13-16:3" "Day/15:10-17:59" "Day/14:45-16:36"
+/
+StudentName: "¶ÑÌ¥"
+StudentCode: "1703049"
+GradePoint: 9.08802385992372
+Interest: "¹èºÀ³µ" "²õ¶±" "ºñÊÃ" "²õ¶±"
+DepartmentWishes: "132033/È×ËË" "132009/Ñ¿ÍÆ"
+FreeTime: "Week/Wednesday/13:7-14:42" "Week/Thursday/24:41-27:56" "Week/Saturday/16:26-19:1"
+/
+StudentName: "»°°©°á"
+StudentCode: "1703052"
+GradePoint: 9.530270092450841
+Interest: "Ò¸ÈôÃğ"
+DepartmentWishes: "132047/¾ç°îÏÍ"
+FreeTime: "Day/14:13-15:25" "Day/17:54-19:26" "Day/9:17-12:19"
+/
+StudentName: "Â¿²üº¾"
+StudentCode: "1703057"
+GradePoint: 8.051296423969768
+Interest: "ºñÊÃ" "Ò¸ÈôÃğ" "ºñÊÃ" "ºñÊÃ" "Ññ¶ºÒ¥"
+DepartmentWishes: "132018/·¤Óé" "132063/ÈèÖğ" "132012/µ¬Î¡"
+FreeTime: "Day/20:36-23:6" "Day/15:31-18:25" "Day/18:24-20:22"
+/
+StudentName: "Öğ½°Ïî"
+StudentCode: "1703061"
+GradePoint: 7.858315553000519
+Interest: "ÓÂÖ§" "¶ğÁÒÉú" "Ê¥¿¨"
+DepartmentWishes: "·ÏÌÈÖŞ" "132028/µÖÉõ" "132091/ÄòÈ÷Æè"
+FreeTime: "Day/12:19-14:4" "Day/17:56-18:57" "Day/18:47-19:41"
+/
+StudentName: "·ÁÔå"
+StudentCode: "1703067"
+GradePoint: 6.181861522473541
+Interest: "ÄÊËÈÄë" "ºİÑİ" "¶ØÄ¤²ø"
+DepartmentWishes: "132093/ÉÓÓé"
+FreeTime: "Week/Friday/20:52-21:7" "Week/Thursday/14:33-16:28" "Week/Tuesday/23:30-24:57"
+/
+StudentName: "±ÛÆæ"
+StudentCode: "1703070"
+GradePoint: 6.763043482942095
+Interest: "Æ»·ûÓÄ" "Ê·ÑÑ" "ºñÊÃ" "ºñÊÃ" "Ò¸ÈôÃğ"
+DepartmentWishes: "132083/ÉåĞÎ" "µ¬Î¡"
+FreeTime: "Week/Sunday/20:52-23:34" "Week/Monday/17:4-20:42" "Week/Friday/24:9-27:4"
+/
+StudentName: "ĞÔ¶Î"
+StudentCode: "1703072"
+GradePoint: 5.425605344885118
+Interest: "Ò¸ÈôÃğ" "Õ·°´"
+DepartmentWishes: "µ¬Î¡" "132053/±ÅÆ¼·Ş"
+FreeTime: "Week/Friday/15:42-18:30" "Week/Tuesday/12:17-15:29"
+/
+StudentName: "ÊÜ¶°"
+StudentCode: "1703076"
+GradePoint: 9.588881486315826
+Interest: "¶ğÁÒÉú" "¹èºÀ³µ" "ºÙ¹ËÔÚ" "Æ¸µ¢»¥" "ºİÑİ" "²õ¶±"
+DepartmentWishes: "132074/¼ùÈ³´ç" "132018/·¤Óé" "132047/¾ç°îÏÍ"
+FreeTime: "Week/Thursday/20:10-23:6" "Week/Friday/18:42-21:24" "Week/Monday/24:13-27:40"
+/
+StudentName: "ÆøÃÓÏğ"
+StudentCode: "1703083"
+GradePoint: 9.604156823107
+Interest: "ÄÊËÈÄë" "ÄÊËÈÄë" "Õ·°´" "Æ¸µ¢»¥"
+DepartmentWishes: "ÄòÈ÷Æè"
+FreeTime: "Day/22:38-25:9" "Day/11:21-14:25" "Day/22:23-23:45"
+/
+StudentName: "¸ÒÈ¼°ó"
+StudentCode: "1703086"
+GradePoint: 7.346584337256186
+Interest: "¼ÍĞ¶Ëß"
+DepartmentWishes: "132047/¾ç°îÏÍ" "³¨ºâ"
+FreeTime: "Day/22:2-25:36" "Day/23:50-24:28" "Day/10:55-13:56"
+/
+StudentName: "Ä×Àº"
+StudentCode: "1703089"
+GradePoint: 4.438975047323415
+Interest: "¶ØÄ¤²ø" "ºñÊÃ" "²õ¶±" "ºêÅÊÓ¾"
+DepartmentWishes: "³¨ºâ" "132047/¾ç°îÏÍ" "132005/Ô§ÒıÖè" "132086/µáÊ¸²ü"
+FreeTime: "Day/9:21-11:53" "Day/17:22-18:42"
+/
+StudentName: "Ì¯Ôõ"
+StudentCode: "1703094"
+GradePoint: 7.277013906630785
+Interest: "°«É¯ÌÉ" "Õ·°´"
+DepartmentWishes: "132053/±ÅÆ¼·Ş" "132042/³¿¶À" "ÈèÖğ" "132018/·¤Óé"
+FreeTime: "Week/Sunday/17:42-18:22" "Week/Sunday/12:42-15:57"
+/
+StudentName: "ÃÙÂª"
+StudentCode: "1703096"
+GradePoint: 7.627829802711032
+Interest: "ÄÊËÈÄë" "¼ÍĞ¶Ëß"
+DepartmentWishes: "µÖÉõ" "µáÊ¸²ü" "ÈèÖğ" "±ÅÆ¼·Ş"
+FreeTime: "Day/16:19-17:53"
+/
+StudentName: "¿·Í¹¸»"
+StudentCode: "1703103"
+GradePoint: 9.214700947292851
+Interest: "ºêÅÊÓ¾" "ÄÊËÈÄë"
+DepartmentWishes: "132018/·¤Óé" "132093/ÉÓÓé"
+FreeTime: "Week/Saturday/9:5-10:15" "Week/Sunday/14:28-16:9" "Week/Sunday/15:51-18:54"
+/
+StudentName: "¿¼½½²à"
+StudentCode: "1703107"
+GradePoint: 8.06902545012764
+Interest: "Ññ¶ºÒ¥" "ÄòÎ¢" "ÄÊËÈÄë" "ÄÊËÈÄë" "²õ¶±"
+DepartmentWishes: "132068/³¨ºâ" "132053/±ÅÆ¼·Ş" "³¿¶À"
+FreeTime: "Day/19:50-22:34"
+/
+StudentName: "¶ÁÆå°Å"
+StudentCode: "1703110"
+GradePoint: 8.1008734783544
+Interest: "ÓÂÖ§"
+DepartmentWishes: "Í£ÄÎÏø"
+FreeTime: "Day/24:7-27:14" "Day/21:56-24:31"
+/
+StudentName: "Ö¥Õä"
+StudentCode: "1703115"
+GradePoint: 4.854376327005439
+Interest: "¹èºÀ³µ" "¼ÍĞ¶Ëß"
+DepartmentWishes: "³¨ºâ"
+FreeTime: "Week/Tuesday/9:24-12:23" "Week/Wednesday/20:22-23:12"
+/
+StudentName: "²£Ë±"
+StudentCode: "1703120"
+GradePoint: 4.678086262961141
+Interest: "°«É¯ÌÉ" "Ê·ÑÑ" "Ññ¶ºÒ¥" "Ññ¶ºÒ¥" "ºñÊÃ" "Ê·ÑÑ"
+DepartmentWishes: "132047/¾ç°îÏÍ" "132093/ÉÓÓé" "·¤Óé" "¼ùÈ³´ç"
+FreeTime: "Day/11:4-14:11" "Day/16:7-17:14" "Day/17:35-19:46"
+/
+StudentName: "ÑÓÈû"
+StudentCode: "1703125"
+GradePoint: 7.771614953565025
+Interest: "ºñÊÃ" "Æ¸µ¢»¥" "¶ØÄ¤²ø" "ºñÊÃ"
+DepartmentWishes: "132018/·¤Óé" "132083/ÉåĞÎ" "ĞÏ°ó" "132005/Ô§ÒıÖè"
+FreeTime: "Day/19:50-22:56" "Day/11:52-12:42" "Day/13:41-16:19" "Day/12:52-15:47"
+/
+StudentName: "Æ«°ºÂÓ"
+StudentCode: "1703129"
+GradePoint: 9.89797781633652
+Interest: "Ò¸ÈôÃğ" "¶ğÁÒÉú" "Æ»·ûÓÄ"
+DepartmentWishes: "132093/ÉÓÓé"
+FreeTime: "Day/11:15-12:9"
+/
+StudentName: "¿ñÍ¯¸ğ"
+StudentCode: "1703132"
+GradePoint: 5.056216391436934
+Interest: "¶ğÁÒÉú" "Ê¥¿¨"
+DepartmentWishes: "ÄòÈ÷Æè" "·ÏÌÈÖŞ" "¼ùÈ³´ç"
+FreeTime: "Week/Friday/23:1-24:26"
+/
+StudentName: "Õ÷Ç«Æö"
+StudentCode: "1703139"
+GradePoint: 7.852547950296451
+Interest: "ºÙ¹ËÔÚ" "ºñÊÃ" "ºñÊÃ" "ÄòÎ¢" "¹èºÀ³µ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132068/³¨ºâ" "132060/·ÏÌÈÖŞ"
+FreeTime: "Day/18:50-19:49" "Day/23:13-24:22" "Day/10:51-12:53"
+/
+StudentName: "Ñ¯µŞ"
+StudentCode: "1703142"
+GradePoint: 4.076239882322186
+Interest: "ºÙ¹ËÔÚ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132047/¾ç°îÏÍ" "·¤Óé" "·ÀÖÒ´ğ"
+FreeTime: "Week/Friday/10:0-12:36"
+/
+StudentName: "Î¡µä"
+StudentCode: "1703147"
+GradePoint: 9.186010494981684
+Interest: "¼ÍĞ¶Ëß" "ºİÑİ"
+DepartmentWishes: "132086/µáÊ¸²ü" "³¿¶À" "±ÅÆ¼·Ş" "132068/³¨ºâ"
+FreeTime: "Day/12:2-15:36" "Day/10:44-11:40"
+/
+StudentName: "ºÉÃ¦"
+StudentCode: "1703151"
+GradePoint: 9.054987623823685
+Interest: "ºÙ¹ËÔÚ" "Ññ¶ºÒ¥" "ÓÂÖ§" "¹èºÀ³µ" "ºİÑİ" "Ññ¶ºÒ¥"
+DepartmentWishes: "132074/¼ùÈ³´ç" "132012/µ¬Î¡" "¾ç°îÏÍ" "·¤Óé"
+FreeTime: "Day/16:4-18:58" "Day/22:33-24:9" "Day/16:32-18:3" "Day/17:58-20:23"
+/
+StudentName: "Ï®¸¢"
+StudentCode: "1703153"
+GradePoint: 5.766753812572792
+Interest: "Ññ¶ºÒ¥"
+DepartmentWishes: "132042/³¿¶À" "132093/ÉÓÓé" "132083/ÉåĞÎ" "132053/±ÅÆ¼·Ş"
+FreeTime: "Day/13:13-15:46" "Day/19:46-21:1"
+/
+StudentName: "´ËÇìÂ²"
+StudentCode: "1703158"
+GradePoint: 7.368825112534319
+Interest: "¶ØÄ¤²ø" "¹èºÀ³µ" "Ê·ÑÑ"
+DepartmentWishes: "132047/¾ç°îÏÍ"
+FreeTime: "Day/10:50-11:53" "Day/23:27-24:29" "Day/12:12-15:15" "Day/20:38-22:56"
+/
+StudentName: "°Ø½©"
+StudentCode: "1703163"
+GradePoint: 5.746858320301686
+Interest: "Æ¸µ¢»¥" "¼ÍĞ¶Ëß" "ºİÑİ"
+DepartmentWishes: "132068/³¨ºâ" "·ÀÖÒ´ğ" "132079/ĞÏ°ó"
+FreeTime: "Day/20:28-21:51" "Day/23:18-26:47" "Day/22:23-24:41"
+/
+StudentName: "Ö£Æ»"
+StudentCode: "1703169"
+GradePoint: 7.827577017053972
+Interest: "ºİÑİ" "¹èºÀ³µ"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "±ÅÆ¼·Ş" "132009/Ñ¿ÍÆ" "132047/¾ç°îÏÍ"
+FreeTime: "Day/24:6-26:16" "Day/24:5-27:10" "Day/16:42-19:10"
+/
+StudentName: "ÃĞÌÕ"
+StudentCode: "1703171"
+GradePoint: 7.593081812650501
+Interest: "ÄòÎ¢" "¼ÍĞ¶Ëß"
+DepartmentWishes: "132033/È×ËË"
+FreeTime: "Day/23:0-26:36"
+/
+StudentName: "Ñ±È²"
+StudentCode: "1703173"
+GradePoint: 4.629084026842416
+Interest: "ºñÊÃ" "ºêÅÊÓ¾" "²õ¶±" "Õ·°´" "ÄòÎ¢"
+DepartmentWishes: "132074/¼ùÈ³´ç" "¾ç°îÏÍ" "132023/Í£ÄÎÏø"
+FreeTime: "Week/Thursday/23:2-26:16" "Week/Monday/13:47-15:2"
+/
+StudentName: "Ï·Éä"
+StudentCode: "1703175"
+GradePoint: 5.272063055517007
+Interest: "Ê¥¿¨" "ºİÑİ" "ºêÅÊÓ¾"
+DepartmentWishes: "132086/µáÊ¸²ü" "±ÅÆ¼·Ş" "132093/ÉÓÓé"
+FreeTime: "Day/11:7-12:2" "Day/24:57-26:29" "Day/17:50-20:11"
+/
+StudentName: "ÄÓ¶È"
+StudentCode: "1703181"
+GradePoint: 7.333209275428493
+Interest: "ºİÑİ" "Õ·°´" "Ññ¶ºÒ¥" "Ò¸ÈôÃğ" "Æ¸µ¢»¥" "ºİÑİ"
+DepartmentWishes: "132012/µ¬Î¡" "È×ËË" "132042/³¿¶À" "132093/ÉÓÓé"
+FreeTime: "Day/13:0-14:54"
+/
+StudentName: "»öÔí·È"
+StudentCode: "1703185"
+GradePoint: 7.301279943949298
+Interest: "ÄòÎ¢" "¶ğÁÒÉú"
+DepartmentWishes: "³¨ºâ" "Ñ¿ÍÆ"
+FreeTime: "Day/13:51-16:58" "Day/14:24-16:20" "Day/13:25-15:31"
+/
+StudentName: "°§Ïı"
+StudentCode: "1703191"
+GradePoint: 9.746104856403264
+Interest: "Ò¸ÈôÃğ" "Ññ¶ºÒ¥" "Æ¸µ¢»¥" "¹èºÀ³µ" "¶ğÁÒÉú"
+DepartmentWishes: "µÖÉõ" "132079/ĞÏ°ó" "132074/¼ùÈ³´ç" "Ñ¿ÍÆ"
+FreeTime: "Week/Thursday/11:14-13:36" "Week/Tuesday/18:16-20:47" "Week/Wednesday/15:53-16:37" "Week/Friday/16:22-19:26"
+/
+StudentName: "¸»´®Ğİ"
+StudentCode: "1703194"
+GradePoint: 5.9234904559635755
+Interest: "Ê¥¿¨" "¹èºÀ³µ"
+DepartmentWishes: "¼ùÈ³´ç" "132093/ÉÓÓé"
+FreeTime: "Week/Thursday/14:8-17:47" "Week/Saturday/24:21-26:20" "Week/Wednesday/22:59-23:31"
+/
+StudentName: "ÑùÅ­"
+StudentCode: "1703197"
+GradePoint: 8.775643575741459
+Interest: "¼ÍĞ¶Ëß" "Æ»·ûÓÄ"
+DepartmentWishes: "132036/·ÀÖÒ´ğ"
+FreeTime: "Week/Thursday/13:45-14:54" "Week/Friday/15:0-16:47" "Week/Wednesday/14:50-17:42" "Week/Tuesday/22:53-25:9"
+/
+StudentName: "¿ğµÑ"
+StudentCode: "1703201"
+GradePoint: 5.985536165095873
+Interest: "ÄÊËÈÄë"
+DepartmentWishes: "132068/³¨ºâ" "132091/ÄòÈ÷Æè" "132028/µÖÉõ"
+FreeTime: "Day/9:59-11:1"
+/
+StudentName: "°İËä"
+StudentCode: "1703207"
+GradePoint: 6.907013439027477
+Interest: "¼ÍĞ¶Ëß"
+DepartmentWishes: "¼ùÈ³´ç"
+FreeTime: "Day/17:21-18:40" "Day/20:26-21:19" "Day/13:15-15:1" "Day/21:41-23:58"
+/
+StudentName: "ÌÇÅæ"
+StudentCode: "1703209"
+GradePoint: 7.012222700060203
+Interest: "Õ·°´" "ºÙ¹ËÔÚ"
+DepartmentWishes: "132060/·ÏÌÈÖŞ" "132018/·¤Óé" "132063/ÈèÖğ" "±ÅÆ¼·Ş"
+FreeTime: "Week/Tuesday/16:58-17:12" "Week/Thursday/12:24-14:37"
+/
+StudentName: "´¬µ®"
+StudentCode: "1703211"
+GradePoint: 7.9303405286261714
+Interest: "Õ·°´" "Æ¸µ¢»¥" "ÄòÎ¢" "Æ»·ûÓÄ"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "132009/Ñ¿ÍÆ" "132018/·¤Óé" "132074/¼ùÈ³´ç"
+FreeTime: "Day/11:48-12:39"
+/
+StudentName: "ÉúÄê»Ù"
+StudentCode: "1703215"
+GradePoint: 9.84049028315579
+Interest: "Õ·°´" "Æ»·ûÓÄ" "Ê·ÑÑ" "ºİÑİ" "ºñÊÃ" "ºÙ¹ËÔÚ"
+DepartmentWishes: "Ô§ÒıÖè"
+FreeTime: "Week/Tuesday/21:14-22:44"
+/
+StudentName: "°¦È¸"
+StudentCode: "1703218"
+GradePoint: 4.428737689842347
+Interest: "Æ»·ûÓÄ" "Ññ¶ºÒ¥" "¹èºÀ³µ" "Ê¥¿¨" "Æ¸µ¢»¥"
+DepartmentWishes: "132047/¾ç°îÏÍ" "Í£ÄÎÏø" "132042/³¿¶À" "132086/µáÊ¸²ü"
+FreeTime: "Week/Monday/19:37-21:6" "Week/Thursday/11:34-13:5" "Week/Tuesday/15:4-18:6" "Week/Monday/9:53-10:9"
+/
+StudentName: "ÃëÁÄ"
+StudentCode: "1703223"
+GradePoint: 6.25219729888583
+Interest: "¶ğÁÒÉú" "Ê·ÑÑ" "¹èºÀ³µ" "ºñÊÃ" "ºİÑİ" "Æ¸µ¢»¥"
+DepartmentWishes: "132060/·ÏÌÈÖŞ" "¾ç°îÏÍ"
+FreeTime: "Week/Saturday/20:9-23:21" "Week/Friday/16:30-17:12"
+/
+StudentName: "Îá¾÷Ïô"
+StudentCode: "1703230"
+GradePoint: 4.029855121857252
+Interest: "Æ»·ûÓÄ" "ÄòÎ¢" "²õ¶±" "ÄÊËÈÄë" "¶ØÄ¤²ø" "ÄòÎ¢"
+DepartmentWishes: "132005/Ô§ÒıÖè" "±ÅÆ¼·Ş" "132047/¾ç°îÏÍ" "Ñ¿ÍÆ"
+FreeTime: "Week/Sunday/17:9-20:23" "Week/Wednesday/20:18-23:49"
+/
+StudentName: "°óÀÛ"
+StudentCode: "1703232"
+GradePoint: 8.742970571407547
+Interest: "ÄÊËÈÄë" "Ê¥¿¨" "¶ğÁÒÉú" "°«É¯ÌÉ"
+DepartmentWishes: "·ÏÌÈÖŞ"
+FreeTime: "Day/23:5-24:48" "Day/9:7-11:11"
+/
+StudentName: "ÈŞ¾Å"
+StudentCode: "1703236"
+GradePoint: 4.460524208568104
+Interest: "¶ØÄ¤²ø" "ºİÑİ" "Ê¥¿¨" "ÄÊËÈÄë" "¶ğÁÒÉú" "°«É¯ÌÉ"
+DepartmentWishes: "¾ç°îÏÍ" "132042/³¿¶À"
+FreeTime: "Day/21:29-22:37" "Day/13:14-15:11" "Day/22:42-24:1" "Day/22:0-25:29"
+/
+StudentName: "¹óÈÀÆå"
+StudentCode: "1703240"
+GradePoint: 6.474753913618212
+Interest: "Ê¥¿¨" "ºñÊÃ" "ºİÑİ" "ÄòÎ¢" "¶ØÄ¤²ø"
+DepartmentWishes: "132091/ÄòÈ÷Æè" "¼ùÈ³´ç" "132063/ÈèÖğ"
+FreeTime: "Day/11:11-13:34" "Day/21:55-24:30"
+/
+StudentName: "¾ìÕÄ"
+StudentCode: "1703243"
+GradePoint: 4.735983155120165
+Interest: "ºñÊÃ" "Ò¸ÈôÃğ"
+DepartmentWishes: "132060/·ÏÌÈÖŞ" "132012/µ¬Î¡"
+FreeTime: "Week/Monday/10:43-13:25" "Week/Wednesday/16:9-17:4" "Week/Sunday/21:30-22:33"
+/
+StudentName: "ÏÎ³Ï"
+StudentCode: "1703246"
+GradePoint: 4.338475595862547
+Interest: "ºİÑİ" "ºÙ¹ËÔÚ" "ÓÂÖ§" "Ò¸ÈôÃğ" "¼ÍĞ¶Ëß"
+DepartmentWishes: "132060/·ÏÌÈÖŞ" "±ÅÆ¼·Ş"
+FreeTime: "Day/19:14-22:59" "Day/10:32-12:55"
+/
+StudentName: "Å³¾Ñ"
+StudentCode: "1703251"
+GradePoint: 8.028787997179883
+Interest: "¶ğÁÒÉú"
+DepartmentWishes: "·ÏÌÈÖŞ" "132033/È×ËË"
+FreeTime: "Week/Friday/15:32-17:2" "Week/Monday/23:40-25:51" "Week/Sunday/13:8-16:40"
+/
+StudentName: "ÓÑ¼Æ²²"
+StudentCode: "1703257"
+GradePoint: 7.94014295491643
+Interest: "¶ğÁÒÉú" "¼ÍĞ¶Ëß" "ºİÑİ"
+DepartmentWishes: "Ñ¿ÍÆ"
+FreeTime: "Week/Saturday/22:25-23:30" "Week/Monday/18:39-19:11"
+/
+StudentName: "ÃÂÆÁÑÙ"
+StudentCode: "1703260"
+GradePoint: 7.737455009313434
+Interest: "ÓÂÖ§" "¹èºÀ³µ"
+DepartmentWishes: "ÉåĞÎ" "µáÊ¸²ü" "132018/·¤Óé" "132047/¾ç°îÏÍ"
+FreeTime: "Day/14:13-15:18" "Day/16:33-18:39"
+/
+StudentName: "ÔêÑøÁ£"
+StudentCode: "1703267"
+GradePoint: 9.198623202839123
+Interest: "Æ¸µ¢»¥" "°«É¯ÌÉ" "¹èºÀ³µ" "Ê·ÑÑ" "Ê¥¿¨" "Æ¸µ¢»¥"
+DepartmentWishes: "132018/·¤Óé" "132005/Ô§ÒıÖè" "132079/ĞÏ°ó" "µÖÉõ"
+FreeTime: "Day/23:59-26:43"
+/
+StudentName: "ÈäÃÑ"
+StudentCode: "1703272"
+GradePoint: 6.987593032444775
+Interest: "ÄòÎ¢" "Ê·ÑÑ"
+DepartmentWishes: "³¿¶À"
+FreeTime: "Day/24:28-25:56" "Day/12:15-15:41" "Day/14:33-17:5"
+/
+StudentName: "ºÍÁ¶"
+StudentCode: "1703275"
+GradePoint: 9.100948080422953
+Interest: "ºêÅÊÓ¾" "ÄòÎ¢" "ÄòÎ¢" "¼ÍĞ¶Ëß" "¶ğÁÒÉú" "ÄÊËÈÄë"
+DepartmentWishes: "ÉÓÓé" "132086/µáÊ¸²ü"
+FreeTime: "Day/17:45-18:45" "Day/17:26-18:56" "Day/19:47-21:49"
+/
+StudentName: "ÑÔÄ£¹ö"
+StudentCode: "1703279"
+GradePoint: 5.668572318698769
+Interest: "Ññ¶ºÒ¥" "²õ¶±" "ÄòÎ¢" "Æ»·ûÓÄ" "Ê·ÑÑ" "ºêÅÊÓ¾"
+DepartmentWishes: "132036/·ÀÖÒ´ğ" "132047/¾ç°îÏÍ" "µ¬Î¡" "132093/ÉÓÓé"
+FreeTime: "Day/17:34-19:58"
+/
+StudentName: "Ö°ÕÖ"
+StudentCode: "1703283"
+GradePoint: 4.31286371351406
+Interest: "Ê·ÑÑ" "¶ğÁÒÉú" "ºñÊÃ"
+DepartmentWishes: "132018/·¤Óé" "µáÊ¸²ü" "132042/³¿¶À"
+FreeTime: "Day/10:45-13:37" "Day/22:12-23:37" "Day/9:5-10:58"
+/
+StudentName: "Ôå²­ÖÕ"
+StudentCode: "1703289"
+GradePoint: 7.055059152008946
+Interest: "ÄÊËÈÄë" "ÄòÎ¢" "¶ğÁÒÉú" "ºñÊÃ" "Ê¥¿¨"
+DepartmentWishes: "·¤Óé" "132028/µÖÉõ" "132068/³¨ºâ" "132086/µáÊ¸²ü"
+FreeTime: "Week/Sunday/15:16-17:42"
+/
+StudentName: "Ö¸¶ğÈÁ"
+StudentCode: "1703296"
+GradePoint: 7.0143464467419285
+Interest: "ÄòÎ¢" "ÓÂÖ§" "ºêÅÊÓ¾" "ÄòÎ¢" "¹èºÀ³µ"
+DepartmentWishes: "132083/ÉåĞÎ" "132042/³¿¶À" "Ñ¿ÍÆ" "132005/Ô§ÒıÖè"
+FreeTime: "Week/Thursday/12:21-14:24" "Week/Tuesday/17:41-20:8" "Week/Friday/19:56-22:48"
+/
+StudentName: "°ÒÊà¶ø"
+StudentCode: "1703301"
+GradePoint: 8.881369631262652
+Interest: "Ò¸ÈôÃğ"
+DepartmentWishes: "132086/µáÊ¸²ü"
+FreeTime: "Week/Thursday/14:48-17:24" "Week/Thursday/17:5-18:38" "Week/Tuesday/11:25-14:10" "Week/Tuesday/24:34-25:33"
+/
+StudentName: "ÃÕ¾±"
+StudentCode: "1703306"
+GradePoint: 5.170058187285881
+Interest: "Æ¸µ¢»¥" "²õ¶±"
+DepartmentWishes: "ÉÓÓé" "132023/Í£ÄÎÏø"
+FreeTime: "Week/Thursday/22:14-24:7" "Week/Wednesday/23:15-25:29" "Week/Wednesday/13:42-15:53"
+/
+StudentName: "ËìËîÈ¿"
+StudentCode: "1703309"
+GradePoint: 8.63927198973615
+Interest: "ºêÅÊÓ¾" "Ê¥¿¨" "²õ¶±" "°«É¯ÌÉ" "ºÙ¹ËÔÚ" "ºêÅÊÓ¾"
+DepartmentWishes: "È×ËË" "132083/ÉåĞÎ"
+FreeTime: "Day/20:51-23:6"
+/
+StudentName: "ÃÑÀ¶"
+StudentCode: "1703313"
+GradePoint: 9.9732050007892
+Interest: "¶ØÄ¤²ø" "ºêÅÊÓ¾" "ÓÂÖ§"
+DepartmentWishes: "132028/µÖÉõ" "·ÏÌÈÖŞ" "132068/³¨ºâ" "132018/·¤Óé"
+FreeTime: "Day/14:17-16:40"
+/
+StudentName: "³üËæ¿û"
+StudentCode: "1703319"
+GradePoint: 5.81970101072758
+Interest: "ÓÂÖ§" "ÄÊËÈÄë"
+DepartmentWishes: "132018/·¤Óé" "132033/È×ËË" "132012/µ¬Î¡" "132009/Ñ¿ÍÆ"
+FreeTime: "Week/Tuesday/22:46-23:42" "Week/Saturday/19:57-20:50" "Week/Thursday/10:4-11:18"
+/
+StudentName: "ÔóÅæÎã"
+StudentCode: "1703325"
+GradePoint: 8.544846426972672
+Interest: "¶ØÄ¤²ø" "Ññ¶ºÒ¥"
+DepartmentWishes: "132074/¼ùÈ³´ç" "132047/¾ç°îÏÍ" "132093/ÉÓÓé"
+FreeTime: "Day/11:19-13:43"
+/

@@ -1,12 +1,9 @@
 package com.mengyitf;
 
 import com.mengyitf.config.Config;
+import com.mengyitf.model.Log;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
+import java.io.*;
 import java.util.Random;
 
 /**
@@ -17,6 +14,7 @@ public class CreateInportFile {
     private int dnum = 20;  // 部门数
     private int snum = 300; // 学生人数
     private int snum2 = 10; // 部门上限10到15个
+    private Log log = new Log();
     public CreateInportFile(Config config){
         this.config = config;
         createInportFile();
@@ -145,8 +143,17 @@ public class CreateInportFile {
                 bw.newLine();
             }
             bw.close();
+            log.writeLog("已生成文件:"+config.getImportfilePath());
+        }catch (FileNotFoundException fnfe){
+            try{
+                new File(config.getImportfilePath()).createNewFile();
+                createInportFile();
+            }catch (IOException ioe){
+                log.writeLog(ioe);
+                System.exit(1);
+            }
         }catch (IOException ioe){
-            System.out.println(ioe);
+            log.writeLog(ioe);
         }
     }
 

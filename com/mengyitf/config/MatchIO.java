@@ -17,6 +17,7 @@ public class MatchIO {
     private ArrayList<Department> departments = new ArrayList<>();
     private ArrayList<Student> students = new ArrayList<>();
     private Config config;
+    private Log log = new Log();
 
     /*参数-配置，是否初始化*/
     public MatchIO(Config config,Boolean isInit){
@@ -92,7 +93,7 @@ public class MatchIO {
                                     /*限制学生数上限不对*/
                                     if (num<0 || num>15){
                                         dataError = true;
-                                        System.out.println("第 "+rows+" 行的部门学生数上限不对");
+                                        log.writeLog("第 "+rows+" 行的部门学生数上限不对");
                                         break;
                                     }
                                     department.setStudentLimit(num);
@@ -113,7 +114,7 @@ public class MatchIO {
                                     }
                                     if (department.getRoutineActivityTime().size()==0){
                                         dataError = true;
-                                        System.out.println("第 "+rows+" 行的部门没有时间不对");
+                                        log.writeLog("第 "+rows+" 行的部门没有时间不对");
                                     }
                                     break;
                                 }
@@ -124,19 +125,19 @@ public class MatchIO {
                                     else if (!isNew){
                                         isNew = true;
                                         if (department.getDepartmentName()==null || department.getDepartmentName().equals("")){
-                                            System.out.println("第 "+rows+" 行部门名称为空");
+                                            log.writeLog("第 "+rows+" 行部门名称为空");
                                             break;
                                         }else if(department.getDepartmentCode()==null || department.getDepartmentCode().equals("")){
-                                            System.out.println("第 "+rows+" 行部门编号为空");
+                                            log.writeLog("第 "+rows+" 行部门编号为空");
                                             break;
                                         }else if (department.getStudentLimit() == null || department.getStudentLimit()==0){
-                                            System.out.println("第 "+rows+" 行部门的学生数上限为空");
+                                            log.writeLog("第 "+rows+" 行部门的学生数上限为空");
                                             break;
                                         }else if (department.getCharacteristics().size()==0){
-                                            System.out.println("第 "+rows+" 行部门的特点标签个数为0");
+                                            log.writeLog("第 "+rows+" 行部门的特点标签个数为0");
                                             break;
                                         }else if (department.getRoutineActivityTime().size()==0){
-                                            System.out.println("第 "+rows+" 行部门的常规活动时间段个数为0");
+                                            log.writeLog("第 "+rows+" 行部门的常规活动时间段个数为0");
                                             break;
                                         }
                                         departments.add(department);
@@ -179,11 +180,11 @@ public class MatchIO {
                                     }
                                     /*意愿部门个数大于0小于等于5*/
                                     if (student.getDepartmentWishes().size()>5){
-                                        System.out.println("第 "+rows+" 行学生意愿个数大于5个");
+                                        log.writeLog("第 "+rows+" 行学生意愿个数大于5个");
                                         dataError = true;
                                         break;
                                     }else if (student.getDepartmentWishes().size() == 0){
-                                        System.out.println("第 "+rows+" 行学生意愿个数为空");
+                                        log.writeLog("第 "+rows+" 行学生意愿个数为空");
                                         dataError = true;
                                         break;
                                     }
@@ -195,7 +196,7 @@ public class MatchIO {
                                         if (!info[i].equals(""))student.addFreeTime(info[i]);
                                     }
                                     if (student.getFreeTime().size()==0){
-                                        System.out.println("第 "+rows+" 行学生时间个数为空");
+                                        log.writeLog("第 "+rows+" 行学生时间个数为空");
                                         dataError = true;
                                     }
                                     break;
@@ -206,19 +207,19 @@ public class MatchIO {
                                     else if (!isNew){
                                         isNew = true;
                                         if (student.getStudentName()==null || student.getStudentName().equals("")){
-                                            System.out.println("第 "+rows+" 行学生姓名为空");
+                                            log.writeLog("第 "+rows+" 行学生姓名为空");
                                             break;
                                         }else if(student.getStudentCode()==null || student.getStudentCode().equals("")){
-                                            System.out.println("第 "+rows+" 行学生学号为空");
+                                            log.writeLog("第 "+rows+" 行学生学号为空");
                                             break;
                                         }else if (student.getGradePoint() == null || student.getGradePoint()==0){
-                                            System.out.println("第 "+rows+" 行学生绩点为空");
+                                            log.writeLog("第 "+rows+" 行学生绩点为空");
                                             break;
                                         }else if (student.getDepartmentWishes().size()==0){
-                                            System.out.println("第 "+rows+" 行学生意愿个数为0");
+                                            log.writeLog("第 "+rows+" 行学生意愿个数为0");
                                             break;
                                         }else if (student.getFreeTime().size()==0){
-                                            System.out.println("第 "+rows+" 行学生空闲时间段个数为0");
+                                            log.writeLog("第 "+rows+" 行学生空闲时间段个数为0");
                                             break;
                                         }
                                         students.add(student);
@@ -231,9 +232,11 @@ public class MatchIO {
                     }
                 }
             }
-            System.out.println("已成功录入文件:"+config.getImportfilePath());
+            log.writeLog("已成功录入文件:"+config.getImportfilePath());
+            
         }catch (IOException ioe){
-            System.out.println(ioe);
+            log.writeLog(ioe);
+            System.exit(1);
         }
     }
 
